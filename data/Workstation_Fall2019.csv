@@ -1,0 +1,1483 @@
+record_date,department,student_type,date,time_in,time_out
+2019/11/25 4:28:12 PM MST,sociology,Graduate student,9/25/2019,12:20,14:10
+2019/11/25 4:29:00 PM MST,global,Graduate student,9/25/2019,12:35,
+2019/11/25 4:28:39 PM MST,sociology,Undergraduate student,9/26/2019,15:42,16:42
+2019/11/25 4:29:26 PM MST,bren / environmental studies,Undergraduate student,9/27/2019,13:59,14:03
+2019/11/25 4:29:57 PM MST,psychology,Undergraduate student,9/28/2019,13:24,
+2019/11/25 4:30:25 PM MST,sociology,Undergraduate student,9/28/2019,15:04,
+2019/11/25 4:30:56 PM MST,film & media,Undergraduate student,9/29/2019,18:32,19:09
+2019/11/25 4:31:24 PM MST,bren / environmental studies,Undergraduate student,9/30/2019,14:56,18:20
+2019/11/25 4:32:06 PM MST,film & media,Undergraduate student,9/30/2019,19:00,19:50
+2019/11/25 1:44:29 PM MST,bren / environmental studies,Undergraduate student,10/1/2019,16:01,18:07
+2019/11/25 1:44:57 PM MST,math,Undergraduate student,10/1/2019,18:02,19:10
+2019/11/25 4:32:35 PM MST,geog,Undergraduate student,10/1/2019,12:20,13:54
+2019/11/25 4:33:05 PM MST,econ,Undergraduate student,10/1/2019,13:30,15:30
+2019/11/25 4:33:23 PM MST,bren / environmental studies,Undergraduate student,10/1/2019,14:00,
+2019/11/25 4:33:49 PM MST,computer science,Undergraduate student,10/1/2019,16:09,
+2019/11/25 1:45:18 PM MST,geog,Undergraduate student,10/2/2019,12:15,13:39
+2019/11/25 1:45:40 PM MST,geog,Undergraduate student,10/2/2019,14:11,
+2019/11/25 1:45:56 PM MST,pstat / stats / actuarial,Undergraduate student,10/2/2019,14:41,
+2019/11/25 1:46:18 PM MST,film & media,Undergraduate student,10/2/2019,15:00,17:00
+2019/11/25 1:47:04 PM MST,pstat / stats / actuarial,Undergraduate student,10/2/2019,15:00,
+2019/11/25 1:47:35 PM MST,pstat / stats / actuarial,Undergraduate student,10/2/2019,15:00,15:21
+2019/11/25 1:47:56 PM MST,physics,Undergraduate student,10/2/2019,15:05,15:20
+2019/11/25 1:48:22 PM MST,pstat / stats / actuarial,Undergraduate student,10/2/2019,15:18,17:38
+2019/11/25 1:48:48 PM MST,bren / environmental studies,Undergraduate student,10/2/2019,16:02,16:45
+2019/11/25 1:53:21 PM MST,computer science,Undergraduate student,10/2/2019,15:50,
+2019/11/25 1:53:44 PM MST,ece,Undergraduate student,10/2/2019,15:50,16:40
+2019/11/25 1:56:32 PM MST,N/A,Undergraduate student,10/2/2019,16:12,
+2019/11/25 1:56:53 PM MST,N/A,Undergraduate student,10/2/2019,16:14,
+2019/11/25 1:57:15 PM MST,bren / environmental studies,Undergraduate student,10/2/2019,18:02,19:58
+2019/11/25 1:57:36 PM MST,pstat / stats / actuarial,Undergraduate student,10/3/2019,12:03,12:14
+2019/11/25 1:57:56 PM MST,N/A,Undergraduate student,10/3/2019,16:46,
+2019/11/25 1:58:22 PM MST,N/A,Undergraduate student,10/3/2019,18:30,
+2019/11/25 1:59:05 PM MST,pstat / stats / actuarial,Undergraduate student,10/3/2019,19:00,
+2019/11/25 2:00:18 PM MST,pstat / stats / actuarial,Graduate student,10/3/2019,10:04,11:00
+2019/11/25 2:00:54 PM MST,pstat / stats / actuarial,Graduate student,10/3/2019,10:00,11:00
+2019/11/25 2:01:52 PM MST,pstat / stats / actuarial,Undergraduate student,10/3/2019,10:37,11:00
+2019/11/25 1:59:29 PM MST,computer science,Undergraduate student,10/4/2019,9:00,10:45
+2019/11/25 2:15:55 PM MST,pstat / stats / actuarial,Undergraduate student,10/4/2019,13:29,
+2019/11/25 2:16:21 PM MST,ece,Undergraduate student,10/4/2019,14:05,16:05
+2019/11/25 2:16:50 PM MST,communication,Undergraduate student,10/4/2019,14:10,15:50
+2019/11/25 2:17:09 PM MST,global,Undergraduate student,10/4/2019,14:12,
+2019/11/25 2:17:36 PM MST,econ,Undergraduate student,10/4/2019,14:52,15:50
+2019/11/25 2:18:08 PM MST,geog,Undergraduate student,10/4/2019,15:00,16:05
+2019/11/25 2:18:45 PM MST,sociology,Undergraduate student,10/5/2019,14:17,16:57
+2019/11/25 2:19:14 PM MST,econ,Undergraduate student,10/6/2019,12:15,12:54
+2019/11/25 2:19:44 PM MST,econ,Undergraduate student,10/6/2019,14:45,16:58
+2019/11/25 2:40:02 PM MST,econ,Undergraduate student,10/6/2019,14:48,
+2019/11/25 2:40:33 PM MST,econ,Graduate student,10/6/2019,15:00,16:15
+2019/11/25 2:40:58 PM MST,pstat / stats / actuarial,Undergraduate student,10/6/2019,15:00,17:10
+2019/11/25 2:41:26 PM MST,feminist studies,Undergraduate student,10/6/2019,16:00,18:00
+2019/11/25 2:41:54 PM MST,econ,Undergraduate student,10/6/2019,16:40,16:58
+2019/11/25 2:42:27 PM MST,computer science,Undergraduate student,10/6/2019,16:50,19:15
+2019/11/25 2:43:00 PM MST,geog,Undergraduate student,10/6/2019,18:13,19:34
+2019/11/25 2:43:28 PM MST,engineering,Undergraduate student,10/6/2019,18:23,19:22
+2019/11/25 2:44:02 PM MST,econ,Undergraduate student,10/6/2019,18:23,19:22
+2019/11/25 1:49:11 PM MST,bren / environmental studies,Undergraduate student,10/7/2019,15:40,16:40
+2019/11/25 1:49:37 PM MST,econ,Undergraduate student,10/7/2019,16:40,17:40
+2019/11/25 1:49:55 PM MST,computer science,Undergraduate student,10/7/2019,16:50,19:10
+2019/11/25 1:50:22 PM MST,computer science,Undergraduate student,10/7/2019,17:50,
+2019/11/25 1:50:42 PM MST,pstat / stats / actuarial,Undergraduate student,10/7/2019,17:10,
+2019/11/25 1:51:10 PM MST,pstat / stats / actuarial,Undergraduate student,10/7/2019,18:08,19:34
+2019/11/25 2:44:37 PM MST,global,Undergraduate student,10/7/2019,12:25,13:51
+2019/11/25 2:45:08 PM MST,geog,Undergraduate student,10/7/2019,12:56,12:57
+2019/11/25 2:45:33 PM MST,computer science,Undergraduate student,10/7/2019,13:18,17:15
+2019/11/25 4:10:09 PM MST,english,Undergraduate student,10/7/2019,13:20,13:53
+2019/11/25 4:10:34 PM MST,computer science,Undergraduate student,10/7/2019,13:20,
+2019/11/25 4:10:59 PM MST,econ,Undergraduate student,10/7/2019,14:06,15:05
+2019/11/25 4:11:27 PM MST,econ,Undergraduate student,10/7/2019,14:06,15:05
+2019/11/25 4:11:54 PM MST,math,Undergraduate student,10/7/2019,14:14,
+2019/11/25 4:12:22 PM MST,econ,Undergraduate student,10/7/2019,14:45,16:05
+2019/11/25 4:12:53 PM MST,pstat / stats / actuarial,Undergraduate student,10/7/2019,14:56,15:46
+2019/11/25 4:13:24 PM MST,pstat / stats / actuarial,Undergraduate student,10/7/2019,14:57,
+2019/11/25 4:13:49 PM MST,chicano studies,Undergraduate student,10/7/2019,14:50,17:50
+2019/11/25 4:14:11 PM MST,econ,Undergraduate student,10/7/2019,15:17,15:32
+2019/11/25 1:51:34 PM MST,geog,Undergraduate student,10/8/2019,12:20,13:40
+2019/11/25 1:52:10 PM MST,N/A,Undergraduate student,10/8/2019,12:40,14:30
+2019/11/25 1:52:32 PM MST,physics,Undergraduate student,10/8/2019,12:41,14:30
+2019/11/25 1:52:51 PM MST,computer science,Undergraduate student,10/8/2019,12:41,20:00
+2019/11/25 2:02:13 PM MST,pstat / stats / actuarial,Undergraduate student,10/8/2019,15:09,
+2020/02/27 8:29:20 PM MST,poli sci,Graduate student,10/8/2019,15:00,18:15
+2020/02/27 8:29:42 PM MST,econ,Undergraduate student,10/8/2019,15:30,
+2020/02/27 8:29:56 PM MST,econ,Undergraduate student,10/8/2019,15:48,
+2020/02/27 8:30:23 PM MST,computer science,Undergraduate student,10/8/2019,17:21,17:50
+2020/02/27 8:30:37 PM MST,engineering,Undergraduate student,10/8/2019,18:15,
+2020/02/27 8:30:55 PM MST,engineering,Undergraduate student,10/8/2019,18:35,
+2020/02/27 8:31:18 PM MST,econ,Undergraduate student,10/9/2019,12:05,13:20
+2020/02/27 8:31:49 PM MST,computer science,Undergraduate student,10/9/2019,12:05,
+2020/02/27 8:32:18 PM MST,biology/eemb/mcdb,Undergraduate student,10/9/2019,12:05,
+2020/02/27 8:32:32 PM MST,sociology,Undergraduate student,10/9/2019,12:05,
+2020/02/27 8:32:53 PM MST,econ,Undergraduate student,10/9/2019,12:15,13:20
+2020/02/27 8:33:16 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,12:15,16:45
+2020/02/27 8:33:50 PM MST,computer science,Graduate student,10/9/2019,12:15,17:05
+2020/02/27 8:34:08 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,12:18,14:50
+2020/02/27 8:34:56 PM MST,math,Undergraduate student,10/9/2019,13:07,
+2020/02/27 8:35:13 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,13:48,18:45
+2020/02/27 8:36:00 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,14:00,17:30
+2020/02/27 8:36:15 PM MST,econ,Graduate student,10/9/2019,13:50,16:42
+2020/02/27 8:36:28 PM MST,econ,Undergraduate student,10/9/2019,14:45,
+2020/02/27 8:36:50 PM MST,geog,Undergraduate student,10/9/2019,14:40,
+2020/02/27 8:37:05 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,14:40,
+2020/02/27 8:37:17 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,15:00,18:00
+2020/02/27 8:37:43 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,12:45,14:40
+2020/02/27 8:37:55 PM MST,math,Undergraduate student,10/9/2019,12:47,14:40
+2020/02/27 8:38:09 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,14:45,17:43
+2020/02/27 8:38:23 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,12:47,
+2020/02/27 8:38:47 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,14:47,15:48
+2020/02/27 8:39:03 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,15:00,
+2020/02/27 8:39:14 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,15:00,
+2020/02/27 8:39:30 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,15:05,17:00
+2020/02/27 8:39:56 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,15:05,17:55
+2020/02/27 8:40:10 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,15:05,
+2020/02/27 8:40:26 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,15:15,15:45
+2020/02/27 8:40:35 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,15:15,
+2020/02/27 8:41:05 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,16:20,16:57
+2020/02/27 8:41:27 PM MST,pstat / stats / actuarial,Graduate student,10/9/2019,16:40,17:00
+2020/02/27 8:41:44 PM MST,computer science,Undergraduate student,10/9/2019,18:30,20:00
+2020/02/27 8:41:58 PM MST,econ,Undergraduate student,10/9/2019,19:05,19:50
+2020/03/05 1:11:07 PM MST,pstat / stats / actuarial,Undergraduate student,10/9/2019,16:10,
+2020/02/27 8:34:35 PM MST,econ,Undergraduate student,10/9/2019,13:07,
+2019/11/22 5:35:59 PM MST,geog,Undergraduate student,10/9/2019,13:47,16:41
+2020/02/27 8:42:15 PM MST,physics,Undergraduate student,10/10/2019,12:21,13:38
+2020/02/27 8:42:36 PM MST,econ,Undergraduate student,10/10/2019,13:00,18:00
+2020/02/27 8:42:57 PM MST,econ,Undergraduate student,10/10/2019,13:27,13:50
+2020/02/27 8:43:06 PM MST,geog,Undergraduate student,10/10/2019,13:50,
+2020/02/27 8:43:19 PM MST,econ,Undergraduate student,10/10/2019,14:12,15:26
+2020/02/27 8:43:36 PM MST,engineering,Undergraduate student,10/10/2019,14:31,
+2020/02/27 8:43:49 PM MST,econ,Undergraduate student,10/10/2019,14:35,16:35
+2020/02/27 8:44:24 PM MST,computer science,Graduate student,10/10/2019,14:48,
+2020/02/27 8:44:37 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,14:49,
+2020/02/27 8:44:54 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,14:46,19:02
+2020/02/27 8:45:09 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,15:25,18:45
+2020/02/27 8:45:23 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,18:30,19:40
+2020/02/27 8:45:53 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,18:20,
+2020/02/27 8:46:04 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,18:30,
+2020/02/27 8:46:13 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,18:30,
+2020/02/27 8:46:25 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,18:30,
+2020/02/27 8:46:34 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,18:30,
+2020/02/27 8:46:52 PM MST,econ,Undergraduate student,10/10/2019,17:00,
+2020/02/27 8:47:05 PM MST,computer science,Undergraduate student,10/10/2019,17:00,20:00
+2020/02/27 8:47:19 PM MST,geog,Undergraduate student,10/10/2019,17:00,17:18
+2020/02/27 8:47:30 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,17:40,
+2020/02/27 8:47:45 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,17:50,19:10
+2020/02/27 8:47:59 PM MST,pstat / stats / actuarial,Undergraduate student,10/10/2019,18:00,
+2020/02/27 8:48:21 PM MST,pstat / stats / actuarial,Undergraduate student,10/11/2019,9:00,9:30
+2020/02/27 8:48:34 PM MST,pstat / stats / actuarial,Undergraduate student,10/11/2019,9:00,
+2020/02/27 8:48:48 PM MST,econ,Graduate student,10/11/2019,9:45,10:20
+2020/02/27 8:49:03 PM MST,computer science,Graduate student,10/11/2019,10:11,
+2020/02/27 8:49:15 PM MST,pstat / stats / actuarial,Undergraduate student,10/11/2019,10:30,
+2020/02/27 8:49:26 PM MST,pstat / stats / actuarial,Undergraduate student,10/11/2019,10:30,
+2020/02/27 8:49:56 PM MST,pstat / stats / actuarial,Undergraduate student,10/11/2019,10:30,11:00
+2020/02/27 8:50:08 PM MST,computer science,Undergraduate student,10/11/2019,9:00,10:55
+2020/02/27 8:50:23 PM MST,pstat / stats / actuarial,Undergraduate student,10/11/2019,9:10,10:58
+2020/02/27 8:50:42 PM MST,econ,Undergraduate student,10/11/2019,12:00,13:23
+2020/02/27 8:50:55 PM MST,econ,Undergraduate student,10/11/2019,12:00,13:20
+2020/02/27 8:51:11 PM MST,psychology,Undergraduate student,10/11/2019,12:30,
+2020/02/27 8:51:34 PM MST,econ,Undergraduate student,10/11/2019,14:05,16:00
+2020/02/27 8:51:49 PM MST,econ,Undergraduate student,10/11/2019,14:05,14:35
+2020/02/27 8:52:02 PM MST,econ,Undergraduate student,10/11/2019,14:05,14:35
+2020/02/27 8:52:15 PM MST,computer science,Undergraduate student,10/11/2019,14:40,17:00
+2020/02/27 8:52:41 PM MST,pstat / stats / actuarial,Undergraduate student,10/11/2019,14:45,16:25
+2020/02/27 8:52:54 PM MST,pstat / stats / actuarial,Undergraduate student,10/12/2019,12:40,15:30
+2020/02/27 8:53:08 PM MST,bren / environmental studies,Undergraduate student,10/12/2019,12:46,16:20
+2020/02/27 8:53:22 PM MST,pstat / stats / actuarial,Undergraduate student,10/12/2019,13:00,20:00
+2020/02/27 8:53:37 PM MST,engineering,Undergraduate student,10/12/2019,13:00,
+2020/02/27 8:53:51 PM MST,econ,Undergraduate student,10/12/2019,14:30,
+2020/02/27 8:54:02 PM MST,econ,Undergraduate student,10/12/2019,14:30,
+2020/02/27 8:54:17 PM MST,econ,Undergraduate student,10/12/2019,15:00,
+2020/02/27 8:54:29 PM MST,poli sci,Undergraduate student,10/12/2019,16:00,
+2020/02/27 8:54:42 PM MST,physics,Undergraduate student,10/13/2019,12:00,
+2020/02/27 8:54:52 PM MST,engineering,Undergraduate student,10/13/2019,13:00,
+2020/02/27 8:55:56 PM MST,computer science,Graduate student,10/13/2019,15:00,18:35
+2020/02/27 8:56:10 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,15:00,18:35
+2020/02/27 8:56:25 PM MST,sociology,Graduate student,10/13/2019,14:10,14:15
+2020/02/27 8:56:38 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,14:25,
+2020/02/27 8:56:55 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,14:45,
+2020/02/27 8:57:10 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,14:50,
+2020/02/27 8:57:24 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,15:00,17:15
+2020/02/27 8:57:41 PM MST,psychology,Undergraduate student,10/13/2019,15:05,
+2020/02/27 8:58:16 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,15:00,17:54
+2020/02/27 8:58:30 PM MST,econ,Undergraduate student,10/13/2019,15:00,18:00
+2020/02/27 8:58:42 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,15:00,
+2020/02/27 8:58:58 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,15:37,18:34
+2020/02/27 8:59:08 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,16:00,
+2020/02/27 8:59:22 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,16:00,17:00
+2020/02/27 8:59:31 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,16:45,
+2020/02/27 8:59:43 PM MST,pstat / stats / actuarial,Undergraduate student,10/13/2019,17:00,19:00
+2020/02/27 8:59:59 PM MST,econ,Undergraduate student,10/13/2019,18:35,19:55
+2020/02/27 9:00:10 PM MST,computer science,Undergraduate student,10/13/2019,19:10,
+2020/02/27 9:00:18 PM MST,computer science,Undergraduate student,10/13/2019,19:10,
+2019/11/23 2:42:34 PM MST,econ,Undergraduate student,10/14/2019,17:00,20:00
+2019/11/23 2:42:55 PM MST,pstat / stats / actuarial,Undergraduate student,10/14/2019,17:00,20:00
+2019/11/23 2:43:13 PM MST,geog,Undergraduate student,10/14/2019,17:04,18:29
+2019/11/23 2:44:02 PM MST,pstat / stats / actuarial,Undergraduate student,10/14/2019,17:30,20:00
+2019/11/23 2:44:21 PM MST,econ,Undergraduate student,10/14/2019,17:43,19:40
+2019/11/23 2:44:47 PM MST,econ,Undergraduate student,10/14/2019,18:18,20:00
+2019/11/23 2:45:15 PM MST,poli sci,Undergraduate student,10/14/2019,18:45,19:40
+2019/11/23 2:45:42 PM MST,pstat / stats / actuarial,Undergraduate student,10/14/2019,18:45,19:15
+2020/02/27 9:00:36 PM MST,econ,Undergraduate student,10/14/2019,12:05,16:40
+2020/02/27 9:00:46 PM MST,econ,Undergraduate student,10/14/2019,12:30,
+2020/02/27 9:01:03 PM MST,communication,Undergraduate student,10/14/2019,12:40,
+2020/02/27 9:01:12 PM MST,math,Undergraduate student,10/14/2019,12:40,
+2020/02/27 9:01:24 PM MST,geog,Graduate student,10/14/2019,13:05,
+2020/02/27 9:01:33 PM MST,pstat / stats / actuarial,Undergraduate student,10/14/2019,13:55,
+2020/02/27 9:01:45 PM MST,biology/eemb/mcdb,Undergraduate student,10/14/2019,15:00,17:25
+2020/02/27 9:01:57 PM MST,biology/eemb/mcdb,Undergraduate student,10/14/2019,15:00,17:25
+2020/02/27 9:02:10 PM MST,econ,Undergraduate student,10/14/2019,15:40,15:45
+2020/02/27 9:02:22 PM MST,pstat / stats / actuarial,Undergraduate student,10/14/2019,16:30,
+2020/02/27 9:02:32 PM MST,ece,Undergraduate student,10/14/2019,16:50,
+2020/02/27 9:02:41 PM MST,econ,Undergraduate student,10/14/2019,17:00,
+2019/11/23 2:46:14 PM MST,geog,Graduate student,10/15/2019,12:35,
+2019/11/23 2:46:34 PM MST,econ,Undergraduate student,10/15/2019,12:00,18:00
+2019/11/23 2:46:57 PM MST,econ,Undergraduate student,10/15/2019,13:00,13:48
+2019/11/23 2:47:25 PM MST,econ,Undergraduate student,10/15/2019,13:15,13:51
+2019/11/23 2:47:57 PM MST,computer science,Graduate student,10/15/2019,13:58,14:20
+2019/11/23 2:48:23 PM MST,pstat / stats / actuarial,Graduate student,10/15/2019,14:02,14:07
+2019/11/23 2:48:46 PM MST,math,Undergraduate student,10/15/2019,14:22,15:17
+2019/11/23 2:49:20 PM MST,anth,Undergraduate student,10/15/2019,14:22,15:17
+2019/11/23 2:49:40 PM MST,math,Undergraduate student,10/15/2019,14:29,15:46
+2019/11/23 2:50:02 PM MST,bren / environmental studies,Undergraduate student,10/15/2019,14:30,
+2019/11/23 2:50:27 PM MST,biology/eemb/mcdb,Graduate student,10/15/2019,16:03,
+2019/11/23 2:57:38 PM MST,anth,Undergraduate student,10/15/2019,16:03,16:45
+2019/11/23 2:58:18 PM MST,geog,Undergraduate student,10/15/2019,16:10,17:00
+2019/11/23 2:58:34 PM MST,econ,Undergraduate student,10/15/2019,16:45,
+2019/11/23 2:58:52 PM MST,econ,Undergraduate student,10/15/2019,16:43,
+2019/11/23 2:59:04 PM MST,econ,Undergraduate student,10/15/2019,16:45,
+2019/11/23 2:59:32 PM MST,bren / environmental studies,Undergraduate student,10/15/2019,17:00,
+2019/11/23 2:59:49 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:00,19:15
+2019/11/23 3:00:12 PM MST,pstat / stats / actuarial,Undergraduate student,10/15/2019,17:30,18:20
+2019/11/23 3:07:50 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:00,18:30
+2019/11/23 3:14:31 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:30,19:10
+2019/11/23 3:14:53 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:30,18:56
+2019/11/23 3:15:36 PM MST,bren / environmental studies,Faculty,10/15/2019,17:00,19:00
+2019/11/23 3:16:16 PM MST,bren / environmental studies,Graduate student,10/15/2019,16:30,19:10
+2019/11/23 3:16:57 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:00,19:10
+2019/11/23 3:17:18 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:00,19:10
+2019/11/23 3:17:43 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:00,19:10
+2019/11/23 3:18:04 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:00,19:10
+2019/11/23 3:18:42 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:00,19:10
+2019/11/23 3:19:18 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:00,19:10
+2019/11/25 1:35:27 PM MST,bren / environmental studies,Graduate student,10/15/2019,17:00,18:15
+2019/11/23 3:19:37 PM MST,geog,Undergraduate student,10/16/2019,12:24,14:10
+2019/11/25 1:35:49 PM MST,pstat / stats / actuarial,Undergraduate student,10/16/2019,12:25,14:50
+2019/11/25 1:36:09 PM MST,computer science,Graduate student,10/16/2019,12:25,17:40
+2019/11/25 1:36:30 PM MST,pstat / stats / actuarial,Undergraduate student,10/16/2019,12:25,13:45
+2019/11/25 1:36:45 PM MST,geog,Undergraduate student,10/16/2019,12:55,
+2019/11/25 1:37:09 PM MST,psychology,Undergraduate student,10/16/2019,13:35,
+2019/11/25 1:37:30 PM MST,pstat / stats / actuarial,Undergraduate student,10/16/2019,13:55,
+2019/11/25 1:38:03 PM MST,film & media,Undergraduate student,10/16/2019,14:00,14:40
+2019/11/25 1:38:24 PM MST,pstat / stats / actuarial,Graduate student,10/16/2019,14:00,15:00
+2019/11/25 1:38:39 PM MST,econ,Undergraduate student,10/16/2019,14:00,
+2019/11/25 1:38:53 PM MST,econ,Undergraduate student,10/16/2019,14:10,
+2019/11/25 1:39:14 PM MST,econ,Undergraduate student,10/16/2019,14:00,
+2019/11/25 1:39:34 PM MST,econ,Undergraduate student,10/16/2019,14:23,
+2019/11/25 1:39:54 PM MST,pstat / stats / actuarial,Undergraduate student,10/16/2019,15:00,17:48
+2019/11/25 1:40:26 PM MST,math,Undergraduate student,10/16/2019,15:10,16:55
+2019/11/25 1:40:50 PM MST,pstat / stats / actuarial,Undergraduate student,10/16/2019,15:00,
+2019/11/25 1:41:10 PM MST,pstat / stats / actuarial,Undergraduate student,10/16/2019,15:00,
+2019/11/25 1:41:28 PM MST,econ,Undergraduate student,10/16/2019,15:10,17:00
+2019/11/25 1:41:56 PM MST,biology/eemb/mcdb,Undergraduate student,10/16/2019,15:20,
+2019/11/25 1:42:15 PM MST,pstat / stats / actuarial,Undergraduate student,10/16/2019,15:20,
+2019/11/25 1:43:04 PM MST,pstat / stats / actuarial,Undergraduate student,10/16/2019,14:25,
+2019/11/25 1:43:26 PM MST,geog,Undergraduate student,10/16/2019,15:30,
+2019/11/25 1:43:41 PM MST,econ,Undergraduate student,10/16/2019,15:30,
+2019/11/25 1:43:55 PM MST,communication,Undergraduate student,10/16/2019,15:30,
+2019/11/21 6:15:30 PM MST,pstat / stats / actuarial,Undergraduate student,10/17/2019,16:45,
+2019/11/21 6:15:45 PM MST,biology/eemb/mcdb,Undergraduate student,10/17/2019,16:45,
+2019/11/21 6:16:06 PM MST,pstat / stats / actuarial,Undergraduate student,10/17/2019,16:55,18:00
+2019/11/21 6:16:26 PM MST,computer science,Undergraduate student,10/17/2019,18:15,20:00
+2019/11/21 6:16:48 PM MST,econ,Undergraduate student,10/17/2019,19:00,19:41
+2019/11/21 6:17:56 PM MST,econ,Undergraduate student,10/17/2019,16:15,16:35
+2019/11/21 6:18:18 PM MST,pstat / stats / actuarial,Undergraduate student,10/17/2019,18:30,
+2019/11/21 6:18:32 PM MST,pstat / stats / actuarial,Undergraduate student,10/17/2019,18:30,
+2019/11/25 4:09:04 PM MST,computer science,Undergraduate student,10/17/2019,13:11,13:50
+2019/11/25 4:09:39 PM MST,engineering,Undergraduate student,10/17/2019,13:18,13:53
+2019/11/22 5:32:05 PM MST,geog,Undergraduate student,10/18/2019,12:35,12:45
+2019/11/22 5:32:29 PM MST,econ,Undergraduate student,10/18/2019,12:45,13:45
+2019/11/22 5:32:52 PM MST,ece,Visiting Scholar,10/18/2019,13:20,16:30
+2019/11/22 5:33:16 PM MST,geog,Undergraduate student,10/18/2019,16:30,
+2019/11/22 5:33:39 PM MST,pstat / stats / actuarial,Undergraduate student,10/19/2019,12:25,17:00
+2019/11/22 5:34:09 PM MST,pstat / stats / actuarial,Undergraduate student,10/19/2019,13:30,17:00
+2019/11/22 5:34:29 PM MST,geog,Undergraduate student,10/19/2019,13:43,16:41
+2019/11/22 5:35:43 PM MST,geog,Undergraduate student,10/19/2019,13:47,
+2019/11/22 5:36:16 PM MST,pstat / stats / actuarial,Undergraduate student,10/19/2019,16:25,16:40
+2019/11/22 5:37:42 PM MST,math,Undergraduate student,10/19/2019,15:00,19:05
+2019/11/22 5:38:07 PM MST,pstat / stats / actuarial,Undergraduate student,10/19/2019,15:00,
+2019/11/22 5:38:54 PM MST,pstat / stats / actuarial,Undergraduate student,10/19/2019,16:00,18:00
+2019/11/22 5:36:37 PM MST,geog,Graduate student,10/20/2019,12:00,
+2019/11/25 1:46:46 PM MST,pstat / stats / actuarial,Undergraduate student,10/20/2019,15:00,17:00
+2019/11/21 5:56:59 PM MST,biology/eemb/mcdb,Undergraduate student,10/21/2019,14:15,17:00
+2019/11/21 5:57:16 PM MST,biology/eemb/mcdb,Undergraduate student,10/21/2019,14:15,17:00
+2019/11/21 5:57:37 PM MST,psychology,Undergraduate student,10/21/2019,14:18,
+2019/11/22 5:39:26 PM MST,bren / environmental studies,Undergraduate student,10/21/2019,12:00,12:15
+2019/11/22 5:39:45 PM MST,computer science,Undergraduate student,10/21/2019,12:30,14:00
+2019/11/22 5:40:17 PM MST,geog,Undergraduate student,10/21/2019,12:43,14:50
+2019/11/22 5:40:41 PM MST,psychology,Undergraduate student,10/21/2019,12:55,
+2019/11/22 5:41:15 PM MST,poli sci,Graduate student,10/21/2019,13:14,14:16
+2019/11/22 5:41:30 PM MST,pstat / stats / actuarial,Undergraduate student,10/21/2019,13:14,
+2019/11/22 5:41:58 PM MST,pstat / stats / actuarial,Undergraduate student,10/21/2019,13:15,
+2019/11/22 5:42:13 PM MST,geog,Undergraduate student,10/21/2019,13:24,16:50
+2019/11/22 5:42:37 PM MST,pstat / stats / actuarial,Undergraduate student,10/21/2019,14:45,16:45
+2019/11/22 5:43:01 PM MST,computer science,Graduate student,10/21/2019,14:23,17:17
+2019/11/22 5:43:21 PM MST,econ,Undergraduate student,10/21/2019,14:37,15:37
+2019/11/22 5:43:37 PM MST,econ,Undergraduate student,10/21/2019,14:31,
+2019/11/22 5:44:02 PM MST,math,Undergraduate student,10/21/2019,14:30,
+2019/11/22 5:46:27 PM MST,pstat / stats / actuarial,Undergraduate student,10/21/2019,15:01,15:25
+2019/11/22 5:46:52 PM MST,pstat / stats / actuarial,Undergraduate student,10/21/2019,15:04,18:50
+2019/11/22 5:47:13 PM MST,pstat / stats / actuarial,Undergraduate student,10/21/2019,15:24,
+2019/11/22 5:47:36 PM MST,computer science,Undergraduate student,10/21/2019,15:45,
+2019/11/22 5:48:03 PM MST,engineering,Undergraduate student,10/21/2019,16:18,17:49
+2019/11/22 5:48:22 PM MST,engineering,Undergraduate student,10/21/2019,16:18,17:49
+2019/11/22 5:48:54 PM MST,geog,Undergraduate student,10/21/2019,16:19,17:03
+2019/11/22 5:49:25 PM MST,psychology,Undergraduate student,10/21/2019,16:38,19:42
+2019/11/22 5:49:40 PM MST,pstat / stats / actuarial,Undergraduate student,10/21/2019,16:45,19:00
+2019/11/22 5:49:59 PM MST,econ,Graduate student,10/21/2019,16:58,18:50
+2019/11/22 5:50:18 PM MST,psychology,Undergraduate student,10/21/2019,17:00,
+2019/11/22 5:50:34 PM MST,pstat / stats / actuarial,Undergraduate student,10/21/2019,17:02,
+2019/11/22 5:50:49 PM MST,bren / environmental studies,Undergraduate student,10/21/2019,17:22,
+2019/11/22 5:51:08 PM MST,geog,Undergraduate student,10/21/2019,17:28,19:28
+2019/11/22 5:51:26 PM MST,geog,Undergraduate student,10/21/2019,17:28,18:00
+2019/11/22 5:51:49 PM MST,bren / environmental studies,Undergraduate student,10/21/2019,18:00,19:02
+2019/11/22 5:52:19 PM MST,bren / environmental studies,Undergraduate student,10/21/2019,18:11,19:07
+2019/11/22 5:49:07 PM MST,geog,Undergraduate student,10/21/2019,16:31,
+2019/11/21 1:40:56 PM MST,psychology,Undergraduate student,10/22/2019,16:35,
+2019/11/21 1:41:13 PM MST,psychology,Undergraduate student,10/22/2019,16:35,
+2019/11/21 1:41:32 PM MST,psychology,Undergraduate student,10/22/2019,16:35,
+2019/11/21 1:41:49 PM MST,psychology,Undergraduate student,10/22/2019,16:36,
+2019/11/21 1:42:11 PM MST,psychology,Undergraduate student,10/22/2019,16:36,
+2019/11/21 1:42:26 PM MST,psychology,Undergraduate student,10/22/2019,16:38,
+2019/11/21 1:42:52 PM MST,global,Undergraduate student,10/22/2019,16:50,18:53
+2019/11/21 1:43:35 PM MST,chemistry,Undergraduate student,10/22/2019,17:40,18:15
+2019/11/21 1:44:04 PM MST,poli sci,Undergraduate student,10/22/2019,18:20,19:55
+2019/11/21 1:45:10 PM MST,bren / environmental studies,Undergraduate student,10/22/2019,19:05,19:55
+2019/11/21 5:58:06 PM MST,psychology,Undergraduate student,10/22/2019,14:00,16:00
+2019/11/21 5:59:27 PM MST,pstat / stats / actuarial,Undergraduate student,10/22/2019,15:00,16:50
+2019/11/21 6:00:26 PM MST,ece,Visiting Scholar,10/22/2019,15:10,17:45
+2019/11/21 6:01:51 PM MST,linguistics,Undergraduate student,10/22/2019,15:28,16:25
+2019/11/21 6:02:39 PM MST,pstat / stats / actuarial,Undergraduate student,10/22/2019,15:30,
+2019/11/21 6:04:01 PM MST,geog,Undergraduate student,10/22/2019,15:40,16:49
+2019/11/21 6:05:35 PM MST,computer science,Undergraduate student,10/22/2019,14:45,16:00
+2019/11/21 6:05:58 PM MST,earth sciences,Undergraduate student,10/22/2019,18:20,19:00
+2019/11/21 6:06:15 PM MST,earth sciences,Undergraduate student,10/22/2019,18:00,19:00
+2019/11/21 6:06:33 PM MST,econ,Undergraduate student,10/22/2019,12:15,13:45
+2019/11/21 6:07:47 PM MST,pstat / stats / actuarial,Undergraduate student,10/22/2019,12:25,12:50
+2019/11/21 6:08:15 PM MST,econ,Graduate student,10/22/2019,12:50,13:40
+2019/11/21 6:08:52 PM MST,math,Undergraduate student,10/22/2019,13:15,
+2019/11/21 6:09:06 PM MST,econ,Undergraduate student,10/22/2019,13:15,13:46
+2019/11/21 6:09:22 PM MST,biology/eemb/mcdb,Undergraduate student,10/22/2019,13:15,13:45
+2019/11/21 6:09:41 PM MST,geog,Undergraduate student,10/22/2019,13:30,15:05
+2019/11/21 6:09:58 PM MST,computer science,Graduate student,10/22/2019,13:30,14:38
+2019/11/21 6:10:14 PM MST,biology/eemb/mcdb,Undergraduate student,10/22/2019,13:32,
+2019/11/21 6:10:35 PM MST,geog,Undergraduate student,10/22/2019,13:32,
+2019/11/21 6:10:59 PM MST,earth sciences,Undergraduate student,10/22/2019,14:10,17:45
+2019/11/21 6:11:16 PM MST,computer science,Undergraduate student,10/22/2019,14:12,17:52
+2019/11/21 1:45:37 PM MST,bren / environmental studies,Undergraduate student,10/23/2019,12:00,12:45
+2019/11/21 1:46:00 PM MST,bren / environmental studies,Undergraduate student,10/23/2019,12:00,12:25
+2019/11/21 1:46:15 PM MST,geog,Graduate student,10/23/2019,12:30,
+2019/11/21 1:47:06 PM MST,econ,Graduate student,10/23/2019,12:30,16:25
+2019/11/21 1:47:46 PM MST,computer science,Graduate student,10/23/2019,12:53,17:50
+2019/11/21 1:48:06 PM MST,global,Undergraduate student,10/23/2019,13:11,14:46
+2019/11/21 1:48:33 PM MST,econ,Undergraduate student,10/23/2019,13:15,13:30
+2019/11/21 1:49:04 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,13:15,
+2019/11/21 1:49:26 PM MST,chemistry,Undergraduate student,10/23/2019,13:20,15:15
+2019/11/21 1:49:48 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,13:57,14:17
+2019/11/21 1:50:16 PM MST,pstat / stats / actuarial,Graduate student,10/23/2019,13:55,14:56
+2019/11/21 1:50:41 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,13:57,17:30
+2019/11/21 1:51:02 PM MST,biology/eemb/mcdb,Staff,10/23/2019,14:00,14:45
+2019/11/21 1:51:32 PM MST,math,Undergraduate student,10/23/2019,14:10,
+2019/11/21 1:51:54 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,14:10,
+2019/11/21 1:52:09 PM MST,geog,Undergraduate student,10/23/2019,14:10,
+2019/11/21 5:51:59 PM MST,N/A,Undergraduate student,10/23/2019,14:47,15:20
+2019/11/21 5:52:21 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,14:50,
+2019/11/21 5:52:48 PM MST,N/A,Undergraduate student,10/23/2019,13:55,16:50
+2019/11/21 5:53:23 PM MST,N/A,Undergraduate student,10/23/2019,14:55,17:36
+2019/11/21 5:53:39 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,14:56,
+2019/11/21 5:53:58 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,15:00,
+2019/11/21 5:54:13 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,15:00,
+2019/11/21 5:54:32 PM MST,geog,Undergraduate student,10/23/2019,15:15,15:30
+2019/11/21 5:55:22 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,15:20,
+2019/11/21 5:56:02 PM MST,geog,Undergraduate student,10/23/2019,15:20,
+2019/11/21 5:56:24 PM MST,bren / environmental studies,Undergraduate student,10/23/2019,15:26,
+2019/11/21 6:04:46 PM MST,linguistics,Undergraduate student,10/23/2019,14:46,17:34
+2019/11/26 1:10:53 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,15:26,
+2019/11/26 1:11:13 PM MST,geog,Undergraduate student,10/23/2019,15:50,16:31
+2019/11/26 1:11:40 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,15:59,
+2019/11/26 1:12:52 PM MST,pstat / stats / actuarial,Graduate student,10/23/2019,16:50,18:00
+2019/11/26 1:13:15 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,16:50,
+2019/11/26 1:13:32 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,17:07,
+2019/11/26 1:13:55 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,17:21,17:50
+2019/11/26 1:14:15 PM MST,pstat / stats / actuarial,Undergraduate student,10/23/2019,19:20,20:00
+2019/11/26 1:14:40 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,12:05,12:40
+2019/11/26 1:16:53 PM MST,chicano studies,Graduate student,10/24/2019,12:05,12:40
+2019/11/26 1:17:14 PM MST,chemistry,Undergraduate student,10/24/2019,12:15,13:15
+2019/11/26 1:17:40 PM MST,bren / environmental studies,Undergraduate student,10/24/2019,12:00,13:45
+2019/11/26 1:18:07 PM MST,bren / environmental studies,Undergraduate student,10/24/2019,12:15,13:30
+2019/11/26 1:18:38 PM MST,psychology,Undergraduate student,10/24/2019,12:31,
+2019/11/26 1:19:14 PM MST,geog,Undergraduate student,10/24/2019,12:35,16:00
+2019/11/26 1:19:46 PM MST,psychology,Undergraduate student,10/24/2019,12:31,
+2019/11/26 1:20:11 PM MST,geog,Undergraduate student,10/24/2019,12:35,16:00
+2019/11/26 1:20:31 PM MST,computer science,Undergraduate student,10/24/2019,13:00,13:26
+2019/11/26 1:20:52 PM MST,bren / environmental studies,Undergraduate student,10/24/2019,13:20,13:35
+2019/11/26 1:21:19 PM MST,geog,Undergraduate student,10/24/2019,13:35,13:50
+2019/11/26 1:22:09 PM MST,N/A,Undergraduate student,10/24/2019,13:00,
+2019/11/26 1:22:34 PM MST,econ,Undergraduate student,10/24/2019,13:50,14:42
+2019/11/26 1:22:53 PM MST,econ,Graduate student,10/24/2019,13:50,16:10
+2019/11/26 1:23:21 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,13:50,13:59
+2019/11/26 1:23:35 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,14:00,
+2019/11/26 1:32:31 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,13:45,15:20
+2019/11/26 1:32:57 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,13:50,16:50
+2019/11/26 1:33:29 PM MST,math,Undergraduate student,10/24/2019,14:00,14:15
+2019/11/26 1:33:49 PM MST,math,Undergraduate student,10/24/2019,14:15,
+2019/11/26 1:34:10 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,14:18,
+2019/11/26 1:34:34 PM MST,computer science,Graduate student,10/24/2019,15:04,15:05
+2019/11/26 1:35:06 PM MST,computer science,Undergraduate student,10/24/2019,15:03,15:04
+2019/11/26 1:35:24 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,15:20,
+2019/11/26 1:35:46 PM MST,geog,Undergraduate student,10/24/2019,15:20,
+2019/11/26 1:36:12 PM MST,N/A,Undergraduate student,10/24/2019,15:27,16:46
+2019/11/26 1:36:35 PM MST,chemistry,Undergraduate student,10/24/2019,16:00,20:00
+2019/11/26 1:37:01 PM MST,bren / environmental studies,Undergraduate student,10/24/2019,16:52,17:50
+2019/11/26 1:37:17 PM MST,math,Undergraduate student,10/24/2019,17:37,
+2019/11/26 1:37:33 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,17:50,
+2019/11/26 1:37:49 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:00,
+2019/11/26 1:38:26 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:00,
+2019/11/26 1:38:41 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:10,
+2019/11/26 1:38:56 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:10,
+2019/11/26 1:39:25 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:10,19:50
+2019/11/26 1:39:46 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:12,
+2019/11/26 1:40:06 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:17,
+2019/11/26 1:40:26 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:20,19:57
+2019/11/26 1:40:47 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:20,19:55
+2019/11/26 1:41:13 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:30,
+2019/11/26 1:41:36 PM MST,pstat / stats / actuarial,Undergraduate student,10/24/2019,18:30,
+2019/11/26 1:42:12 PM MST,pstat / stats / actuarial,Undergraduate student,10/25/2019,9:11,
+2019/11/26 1:42:30 PM MST,pstat / stats / actuarial,Undergraduate student,10/25/2019,9:50,
+2019/11/26 1:42:44 PM MST,pstat / stats / actuarial,Graduate student,10/25/2019,10:00,
+2019/11/26 1:43:10 PM MST,geog,Graduate student,10/25/2019,11:00,
+2019/11/26 1:43:26 PM MST,econ,Undergraduate student,10/25/2019,13:10,
+2019/11/26 1:43:41 PM MST,econ,Undergraduate student,10/25/2019,13:16,
+2019/11/26 1:44:05 PM MST,psychology,Undergraduate student,10/25/2019,13:21,13:43
+2019/11/26 1:44:29 PM MST,poli sci,Undergraduate student,10/25/2019,14:25,16:55
+2019/11/26 1:44:46 PM MST,poli sci,Undergraduate student,10/25/2019,14:25,16:55
+2019/11/26 1:45:01 PM MST,geog,Graduate student,10/25/2019,15:40,
+2019/11/26 1:45:17 PM MST,econ,Undergraduate student,10/25/2019,16:30,17:00
+2019/11/21 1:46:43 PM MST,bren / environmental studies,Undergraduate student,10/26/2019,12:15,12:50
+2019/11/26 1:45:39 PM MST,computer science,Undergraduate student,10/26/2019,12:28,17:00
+2019/11/26 1:45:55 PM MST,pstat / stats / actuarial,Undergraduate student,10/26/2019,12:50,17:00
+2019/11/26 1:46:16 PM MST,sociology,Undergraduate student,10/26/2019,13:00,13:01
+2019/11/26 1:46:38 PM MST,computer science,Undergraduate student,10/26/2019,15:55,17:00
+2019/11/26 1:46:57 PM MST,computer science,Undergraduate student,10/26/2019,16:10,17:00
+2019/11/26 1:47:14 PM MST,computer science,Undergraduate student,10/26/2019,16:10,17:00
+2019/11/26 5:12:31 PM MST,pstat / stats / actuarial,Undergraduate student,10/26/2019,15:50,
+2019/11/26 5:17:47 PM MST,earth sciences,Undergraduate student,10/26/2019,15:00,16:30
+2019/11/26 1:47:37 PM MST,econ,Undergraduate student,10/27/2019,12:48,14:27
+2019/11/26 1:48:14 PM MST,math,Undergraduate student,10/27/2019,13:35,
+2019/11/26 1:48:32 PM MST,bren / environmental studies,Undergraduate student,10/27/2019,13:40,
+2019/11/26 1:48:50 PM MST,econ,Undergraduate student,10/27/2019,13:50,16:00
+2019/11/26 1:49:06 PM MST,chemistry,Undergraduate student,10/27/2019,13:50,16:00
+2019/11/26 1:49:30 PM MST,chemistry,Undergraduate student,10/27/2019,14:00,20:00
+2019/11/26 1:51:28 PM MST,math,Undergraduate student,10/27/2019,14:00,15:00
+2019/11/26 1:51:46 PM MST,econ,Graduate student,10/27/2019,14:07,16:50
+2019/11/26 1:52:08 PM MST,geog,Undergraduate student,10/27/2019,14:21,16:56
+2019/11/26 1:52:31 PM MST,psychology,Undergraduate student,10/27/2019,14:30,17:12
+2019/11/26 1:52:48 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,14:35,
+2019/11/26 1:53:07 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,14:52,16:00
+2019/11/26 1:53:21 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,14:53,
+2019/11/26 1:53:42 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,14:55,
+2019/11/26 1:54:01 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,14:56,16:25
+2019/11/26 1:54:15 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,15:04,
+2019/11/26 1:54:34 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,15:00,
+2019/11/26 1:54:56 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,15:20,16:48
+2019/11/26 1:55:18 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,16:48,
+2019/11/26 1:57:17 PM MST,computer science,Undergraduate student,10/27/2019,15:36,17:30
+2019/11/26 1:57:29 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,15:36,
+2019/11/26 1:57:57 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,15:35,
+2019/11/26 1:58:19 PM MST,econ,Undergraduate student,10/27/2019,15:42,18:30
+2019/11/26 1:58:37 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,15:45,18:32
+2019/11/26 1:58:57 PM MST,pstat / stats / actuarial,Undergraduate student,10/27/2019,15:54,17:45
+2019/11/26 1:59:20 PM MST,computer science,Undergraduate student,10/27/2019,15:24,20:00
+2019/11/18 5:24:28 PM MST,biology/eemb/mcdb,Undergraduate student,10/28/2019,14:22,
+2019/11/26 1:59:34 PM MST,econ,Undergraduate student,10/28/2019,12:05,
+2019/11/26 1:59:47 PM MST,econ,Undergraduate student,10/28/2019,12:13,
+2019/11/26 2:00:08 PM MST,geog,Undergraduate student,10/28/2019,12:16,13:51
+2019/11/26 2:00:25 PM MST,econ,Undergraduate student,10/28/2019,12:18,13:45
+2019/11/26 2:00:45 PM MST,bren / environmental studies,Undergraduate student,10/28/2019,12:25,13:45
+2019/11/26 2:01:14 PM MST,econ,Undergraduate student,10/28/2019,12:25,13:45
+2019/11/26 2:01:25 PM MST,econ,Undergraduate student,10/28/2019,12:30,
+2019/11/26 2:01:41 PM MST,econ,Undergraduate student,10/28/2019,12:57,14:04
+2019/11/26 2:01:59 PM MST,geog,Graduate student,10/28/2019,13:05,
+2019/11/26 2:02:21 PM MST,geog,Undergraduate student,10/28/2019,13:05,14:00
+2019/11/26 2:02:38 PM MST,psychology,Undergraduate student,10/28/2019,13:23,
+2019/11/26 2:02:57 PM MST,econ,Undergraduate student,10/28/2019,13:33,
+2019/11/26 2:03:18 PM MST,math,Undergraduate student,10/28/2019,13:48,15:49
+2019/11/26 2:03:35 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,13:45,14:01
+2019/11/26 2:04:02 PM MST,econ,Undergraduate student,10/28/2019,13:52,16:30
+2019/11/26 2:04:24 PM MST,pstat / stats / actuarial,Graduate student,10/28/2019,13:55,15:00
+2019/11/26 2:04:47 PM MST,econ,Undergraduate student,10/28/2019,14:00,14:50
+2019/11/26 2:05:05 PM MST,econ,Undergraduate student,10/28/2019,14:14,
+2019/11/26 2:08:26 PM MST,math,Undergraduate student,10/28/2019,14:15,17:16
+2019/11/26 2:08:42 PM MST,econ,Undergraduate student,10/28/2019,14:30,15:20
+2019/11/26 2:08:55 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,14:33,
+2019/11/26 2:09:09 PM MST,computer science,Undergraduate student,10/28/2019,15:43,
+2019/11/26 2:09:30 PM MST,geog,Undergraduate student,10/28/2019,15:08,16:00
+2019/11/26 2:09:55 PM MST,chemistry,Undergraduate student,10/28/2019,15:10,16:51
+2019/11/26 2:10:30 PM MST,geog,Undergraduate student,10/28/2019,15:10,
+2019/11/26 2:10:44 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,15:10,
+2019/11/26 2:11:05 PM MST,bren / environmental studies,Undergraduate student,10/28/2019,15:15,15:30
+2019/11/26 2:11:32 PM MST,anth,Undergraduate student,10/28/2019,15:20,15:40
+2019/11/26 2:11:45 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,15:25,
+2019/11/26 2:12:02 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,15:33,18:33
+2019/11/26 2:12:25 PM MST,econ,Undergraduate student,10/28/2019,15:50,16:30
+2019/11/26 2:12:43 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,16:32,18:57
+2019/11/26 2:12:59 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,16:50,
+2019/11/26 2:13:17 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,17:00,
+2019/11/26 2:13:36 PM MST,econ,Graduate student,10/28/2019,17:00,17:30
+2019/11/26 2:13:52 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,17:00,
+2019/11/26 2:14:17 PM MST,econ,Undergraduate student,10/28/2019,17:00,17:18
+2019/11/26 2:14:43 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,17:18,
+2019/11/26 2:15:01 PM MST,econ,Undergraduate student,10/28/2019,17:30,
+2019/11/26 2:15:15 PM MST,math,Undergraduate student,10/28/2019,17:40,
+2019/11/26 2:15:37 PM MST,econ,Undergraduate student,10/28/2019,17:40,19:20
+2019/11/26 2:15:56 PM MST,pstat / stats / actuarial,Undergraduate student,10/28/2019,17:55,
+2019/11/18 5:18:13 PM MST,biology/eemb/mcdb,Undergraduate student,10/29/2019,14:21,
+2019/11/18 5:18:38 PM MST,pstat / stats / actuarial,Undergraduate student,10/29/2019,15:20,
+2019/11/18 5:19:01 PM MST,geog,Undergraduate student,10/29/2019,15:25,17:00
+2019/11/18 5:19:28 PM MST,econ,Undergraduate student,10/29/2019,15:45,17:00
+2019/11/18 5:19:48 PM MST,engineering,Undergraduate student,10/29/2019,16:00,
+2019/11/18 5:20:15 PM MST,econ,Undergraduate student,10/29/2019,16:21,18:00
+2019/11/18 5:20:44 PM MST,anth,Undergraduate student,10/29/2019,16:22,20:00
+2019/11/18 5:21:01 PM MST,engineering,Undergraduate student,10/29/2019,17:50,
+2019/11/18 5:21:27 PM MST,poli sci,Undergraduate student,10/29/2019,17:34,
+2019/11/18 5:21:46 PM MST,computer science,Undergraduate student,10/29/2019,17:40,
+2019/11/18 5:22:48 PM MST,geog,Undergraduate student,10/29/2019,13:10,
+2019/11/18 5:23:08 PM MST,global,Undergraduate student,10/29/2019,13:10,
+2019/11/18 5:23:34 PM MST,econ,Undergraduate student,10/29/2019,13:30,13:45
+2019/11/18 5:23:49 PM MST,computer science,Undergraduate student,10/29/2019,14:42,
+2019/11/18 5:25:00 PM MST,geog,Undergraduate student,10/29/2019,14:05,17:15
+2019/11/18 5:25:27 PM MST,pstat / stats / actuarial,Undergraduate student,10/29/2019,14:07,16:50
+2019/11/18 5:25:52 PM MST,biology/eemb/mcdb,Undergraduate student,10/29/2019,14:14,15:13
+2019/11/18 5:26:11 PM MST,biology/eemb/mcdb,Undergraduate student,10/29/2019,14:21,
+2019/11/18 5:26:43 PM MST,biology/eemb/mcdb,Undergraduate student,10/29/2019,14:20,15:15
+2019/11/18 5:27:06 PM MST,biology/eemb/mcdb,Undergraduate student,10/29/2019,14:20,15:13
+2019/11/18 5:27:28 PM MST,biology/eemb/mcdb,Undergraduate student,10/29/2019,14:20,
+2019/11/18 5:27:46 PM MST,pstat / stats / actuarial,Undergraduate student,10/29/2019,14:42,
+2019/11/04 3:10:00 PM MST,psychology,Undergraduate student,10/30/2019,14:20,
+2019/11/04 3:10:32 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,14:30,
+2019/11/04 3:11:03 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,14:42,16:32
+2019/11/04 3:11:54 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,14:50,18:00
+2019/11/04 3:12:26 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/04 3:12:52 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/04 3:13:10 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/04 3:13:39 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/04 3:14:01 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,3:00,
+2019/11/04 3:14:20 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:15,
+2019/11/04 3:14:43 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:15,
+2019/11/04 3:17:01 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:24,17:48
+2019/11/04 3:17:39 PM MST,geog,Undergraduate student,10/30/2019,15:45,16:45
+2019/11/04 3:18:03 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:55,
+2019/11/04 3:18:29 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:55,
+2019/11/04 3:18:57 PM MST,computer science,Undergraduate student,10/30/2019,16:00,20:00
+2019/11/04 3:19:34 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,16:10,16:50
+2019/11/04 3:20:40 PM MST,econ,Graduate student,10/30/2019,16:35,17:05
+2019/11/04 3:23:18 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,17:00,
+2019/11/04 3:23:47 PM MST,pstat / stats / actuarial,Graduate student,10/30/2019,17:00,18:30
+2019/11/04 3:24:24 PM MST,engineering,Undergraduate student,10/30/2019,17:01,
+2019/11/04 3:25:35 PM MST,computer science,Undergraduate student,10/30/2019,15:00,20:00
+2019/11/04 3:25:51 PM MST,computer science,Graduate student,10/30/2019,12:33,
+2019/11/04 3:26:15 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,12:33,13:45
+2019/11/04 3:26:48 PM MST,geog,Undergraduate student,10/30/2019,12:35,13:50
+2019/11/04 3:27:17 PM MST,econ,Undergraduate student,10/30/2019,12:59,13:40
+2019/11/15 4:50:56 PM MST,psychology,Undergraduate student,10/30/2019,17:11,
+2019/11/15 4:52:04 PM MST,poli sci,Undergraduate student,10/30/2019,17:55,
+2019/11/15 4:52:38 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,18:50,19:15
+2019/11/15 4:53:59 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,19:10,19:56
+2019/11/15 4:54:24 PM MST,geog,Undergraduate student,10/30/2019,12:09,13:42
+2019/11/15 4:55:43 PM MST,econ,Undergraduate student,10/30/2019,12:15,13:30
+2019/11/16 2:33:32 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,17:49,
+2019/11/16 2:33:50 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,18:00,
+2019/11/18 5:11:38 PM MST,dance,Undergraduate student,10/30/2019,15:00,20:00
+2019/11/18 5:11:59 PM MST,computer science,Graduate student,10/30/2019,12:33,
+2019/11/18 5:12:25 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,12:33,13:45
+2019/11/18 5:12:52 PM MST,geog,Undergraduate student,10/30/2019,12:35,13:00
+2019/11/18 5:13:22 PM MST,econ,Undergraduate student,10/30/2019,12:59,13:40
+2019/11/18 5:13:43 PM MST,geog,Undergraduate student,10/30/2019,13:10,
+2019/11/18 5:14:15 PM MST,anth,Undergraduate student,10/30/2019,13:25,16:30
+2019/11/18 5:14:38 PM MST,econ,Undergraduate student,10/30/2019,13:40,
+2019/11/18 5:15:03 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,13:45,14:41
+2019/11/18 5:15:33 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,13:45,16:25
+2019/11/18 5:15:54 PM MST,pstat / stats / actuarial,Graduate student,10/30/2019,14:00,15:00
+2019/11/18 5:16:20 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,14:03,14:50
+2019/11/18 5:16:39 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,18:40,
+2019/11/18 5:22:09 PM MST,engineering,Undergraduate student,10/30/2019,12:00,15:00
+2019/11/26 2:16:41 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:24,17:48
+2019/11/26 2:17:00 PM MST,geog,Undergraduate student,10/30/2019,15:45,16:45
+2019/11/26 2:17:16 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:55,
+2019/11/26 2:17:34 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:55,
+2019/11/26 2:17:49 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:55,
+2019/11/26 2:18:28 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,16:10,16:50
+2019/11/26 2:18:44 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,16:20,
+2019/11/26 2:18:59 PM MST,math,Undergraduate student,10/30/2019,16:20,
+2019/11/26 2:19:25 PM MST,econ,Graduate student,10/30/2019,16:35,17:05
+2019/11/26 2:19:46 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/26 2:20:05 PM MST,pstat / stats / actuarial,Graduate student,10/30/2019,17:00,18:30
+2019/11/26 2:20:19 PM MST,chemistry,Undergraduate student,10/30/2019,17:00,
+2019/11/26 2:20:42 PM MST,psychology,Undergraduate student,10/30/2019,14:20,
+2019/11/26 2:20:54 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,14:30,
+2019/11/26 2:21:12 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,14:42,16:32
+2019/11/26 2:21:39 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,14:50,18:00
+2019/11/26 2:21:55 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/26 2:22:11 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/26 2:22:23 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/26 2:22:35 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/26 2:22:50 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/26 2:23:00 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/26 2:23:12 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:00,
+2019/11/26 2:23:31 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:13,
+2019/11/26 2:23:56 PM MST,math,Undergraduate student,10/30/2019,15:13,
+2019/11/26 2:24:11 PM MST,pstat / stats / actuarial,Undergraduate student,10/30/2019,15:55,
+2019/11/26 2:18:04 PM MST,computer science,Undergraduate student,10/30/2019,16:00,20:00
+2019/11/15 4:54:51 PM MST,geog,Undergraduate student,10/31/2019,12:12,13:54
+2019/11/15 4:56:31 PM MST,geog,Undergraduate student,10/31/2019,12:29,13:42
+2019/11/15 4:56:52 PM MST,geog,Undergraduate student,10/31/2019,12:41,16:30
+2019/11/15 4:57:19 PM MST,geog,Undergraduate student,10/31/2019,12:41,
+2019/11/15 4:57:41 PM MST,econ,Undergraduate student,10/31/2019,12:42,
+2019/11/15 4:58:27 PM MST,bren / environmental studies,Undergraduate student,10/31/2019,13:02,13:45
+2019/11/15 5:01:00 PM MST,econ,Undergraduate student,10/31/2019,13:10,
+2019/11/15 5:01:21 PM MST,econ,Undergraduate student,10/31/2019,13:21,
+2019/11/15 5:01:54 PM MST,econ,Undergraduate student,10/31/2019,13:30,15:05
+2019/11/15 5:02:21 PM MST,computer science,Graduate student,10/31/2019,14:01,16:50
+2019/11/15 5:03:41 PM MST,pstat / stats / actuarial,Undergraduate student,10/31/2019,14:01,
+2019/11/15 5:04:03 PM MST,geog,Undergraduate student,10/31/2019,14:00,
+2019/11/15 5:04:28 PM MST,biology/eemb/mcdb,Undergraduate student,10/31/2019,14:00,
+2019/11/15 5:04:57 PM MST,pstat / stats / actuarial,Undergraduate student,10/31/2019,15:00,17:39
+2019/11/15 5:05:30 PM MST,bren / environmental studies,Undergraduate student,10/31/2019,15:00,17:39
+2019/11/15 5:06:03 PM MST,art,Undergraduate student,10/31/2019,15:28,17:00
+2019/11/15 5:06:31 PM MST,pstat / stats / actuarial,Undergraduate student,10/31/2019,16:26,16:50
+2019/11/15 5:06:56 PM MST,computer science,Graduate student,10/31/2019,16:52,
+2019/11/16 2:32:40 PM MST,econ,Undergraduate student,10/31/2019,17:00,
+2019/11/16 2:33:04 PM MST,econ,Undergraduate student,10/31/2019,17:00,
+2019/11/16 2:34:26 PM MST,pstat / stats / actuarial,Undergraduate student,10/31/2019,18:17,
+2019/11/16 2:34:41 PM MST,pstat / stats / actuarial,Undergraduate student,10/31/2019,18:20,
+2019/11/16 2:35:34 PM MST,pstat / stats / actuarial,Undergraduate student,10/31/2019,18:20,
+2019/11/16 2:36:05 PM MST,pstat / stats / actuarial,Undergraduate student,10/31/2019,18:20,19:45
+2019/11/16 2:36:57 PM MST,pstat / stats / actuarial,Undergraduate student,10/31/2019,18:20,
+2019/11/16 2:37:24 PM MST,pstat / stats / actuarial,Undergraduate student,10/31/2019,18:20,19:50
+2019/11/16 2:37:48 PM MST,econ,Undergraduate student,11/1/2019,12:00,13:17
+2019/11/16 2:38:59 PM MST,econ,Undergraduate student,11/1/2019,12:00,13:37
+2019/11/16 2:39:26 PM MST,econ,Undergraduate student,11/1/2019,12:15,13:50
+2019/11/16 2:39:44 PM MST,pstat / stats / actuarial,Undergraduate student,11/1/2019,12:35,
+2019/11/16 2:40:27 PM MST,math,Undergraduate student,11/1/2019,12:40,
+2019/11/16 2:41:01 PM MST,econ,Undergraduate student,11/1/2019,12:40,14:50
+2019/11/16 2:42:08 PM MST,econ,Undergraduate student,11/1/2019,13:21,14:48
+2019/11/16 2:43:07 PM MST,econ,Undergraduate student,11/1/2019,13:03,
+2019/11/16 2:43:26 PM MST,geog,Undergraduate student,11/1/2019,13:03,
+2019/11/16 2:43:43 PM MST,econ,Undergraduate student,11/1/2019,13:41,
+2019/11/16 2:44:08 PM MST,pstat / stats / actuarial,Undergraduate student,11/1/2019,15:00,15:30
+2019/11/16 2:46:03 PM MST,engineering,Undergraduate student,11/1/2019,16:00,16:30
+2019/11/16 2:46:44 PM MST,chemistry,Undergraduate student,11/2/2019,12:30,14:30
+2019/11/16 2:47:09 PM MST,geog,Undergraduate student,11/2/2019,13:00,
+2019/11/16 2:47:54 PM MST,pstat / stats / actuarial,Undergraduate student,11/2/2019,14:25,14:27
+2019/11/16 2:48:52 PM MST,physics,Undergraduate student,11/3/2019,12:00,18:09
+2019/11/16 2:49:21 PM MST,bren / environmental studies,Undergraduate student,11/3/2019,13:25,18:05
+2019/11/16 2:50:09 PM MST,bren / environmental studies,Undergraduate student,11/3/2019,13:25,18:05
+2019/11/16 2:50:38 PM MST,physics,Undergraduate student,11/3/2019,13:13,
+2019/11/16 2:51:18 PM MST,geog,Undergraduate student,11/3/2019,13:13,13:15
+2019/11/16 2:51:42 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,13:29,18:06
+2019/11/16 2:52:10 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,13:30,
+2019/11/16 2:52:34 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,13:40,19:15
+2019/11/16 2:53:37 PM MST,econ,Undergraduate student,11/3/2019,13:45,19:15
+2019/11/16 2:54:03 PM MST,math,Undergraduate student,11/3/2019,13:56,17:00
+2019/11/16 2:54:35 PM MST,econ,Undergraduate student,11/3/2019,13:56,17:00
+2019/11/16 2:55:14 PM MST,computer science,Undergraduate student,11/3/2019,14:05,19:15
+2019/11/16 2:58:34 PM MST,earth sciences,Undergraduate student,11/3/2019,14:10,18:09
+2019/11/16 2:58:53 PM MST,math,Undergraduate student,11/3/2019,14:34,
+2019/11/16 2:59:21 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,14:47,18:49
+2019/11/16 3:00:04 PM MST,math,Undergraduate student,11/3/2019,14:45,18:50
+2019/11/16 3:00:39 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,14:50,
+2019/11/16 3:00:56 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,14:52,
+2019/11/16 3:01:23 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,15:00,17:33
+2019/11/16 3:02:15 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,15:00,
+2019/11/16 3:03:25 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,15:20,
+2019/11/16 3:03:55 PM MST,psychology,Undergraduate student,11/3/2019,15:43,
+2019/11/16 3:04:22 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,16:18,19:56
+2019/11/16 3:04:39 PM MST,pstat / stats / actuarial,Undergraduate student,11/3/2019,17:30,
+2019/11/25 2:13:49 PM MST,bren / environmental studies,Undergraduate student,11/3/2019,12:32,13:53
+2019/11/16 3:05:10 PM MST,biology/eemb/mcdb,Undergraduate student,11/4/2019,12:05,
+2019/11/16 3:05:29 PM MST,psychology,Undergraduate student,11/4/2019,12:07,
+2019/11/16 3:05:52 PM MST,geog,Undergraduate student,11/4/2019,12:08,16:35
+2019/11/16 3:06:22 PM MST,pstat / stats / actuarial,Undergraduate student,11/4/2019,12:27,13:50
+2019/11/16 3:06:46 PM MST,econ,Undergraduate student,11/4/2019,12:27,13:50
+2019/11/16 3:07:18 PM MST,econ,Undergraduate student,11/4/2019,13:42,15:15
+2019/11/16 3:08:43 PM MST,geog,Undergraduate student,11/4/2019,13:58,16:40
+2019/11/18 5:05:28 PM MST,pstat / stats / actuarial,Graduate student,11/4/2019,14:00,15:00
+2019/11/18 5:05:57 PM MST,pstat / stats / actuarial,Undergraduate student,11/4/2019,14:00,16:00
+2019/11/18 5:06:23 PM MST,pstat / stats / actuarial,Undergraduate student,11/4/2019,14:30,15:35
+2019/11/18 5:06:51 PM MST,pstat / stats / actuarial,Undergraduate student,11/4/2019,15:00,
+2019/11/18 5:07:17 PM MST,geog,Undergraduate student,11/4/2019,15:20,
+2019/11/18 5:07:48 PM MST,geog,Undergraduate student,11/4/2019,15:53,17:00
+2019/11/18 5:08:58 PM MST,pstat / stats / actuarial,Undergraduate student,11/4/2019,13:10,16:22
+2019/11/18 5:09:18 PM MST,pstat / stats / actuarial,Undergraduate student,11/4/2019,16:14,
+2019/11/18 5:09:48 PM MST,computer science,Undergraduate student,11/4/2019,16:25,16:30
+2019/11/18 5:10:12 PM MST,pstat / stats / actuarial,Undergraduate student,11/4/2019,17:00,20:00
+2019/11/18 5:10:35 PM MST,engineering,Undergraduate student,11/4/2019,19:00,20:00
+2019/11/18 5:10:57 PM MST,engineering,Undergraduate student,11/4/2019,19:00,20:00
+2019/11/25 2:15:29 PM MST,bren / environmental studies,Undergraduate student,11/4/2019,12:51,13:20
+2020/02/27 1:26:23 PM MST,econ,Undergraduate student,11/4/2019,19:00,20:00
+2020/02/27 1:26:43 PM MST,chemistry,Undergraduate student,11/5/2019,12:00,14:30
+2020/02/27 1:27:01 PM MST,geog,Undergraduate student,11/5/2019,12:26,13:52
+2020/02/27 1:27:18 PM MST,geog,Undergraduate student,11/5/2019,13:25,13:52
+2020/02/27 1:27:42 PM MST,pstat / stats / actuarial,Undergraduate student,11/5/2019,13:30,16:45
+2020/02/27 1:28:08 PM MST,econ,Undergraduate student,11/5/2019,13:30,13:50
+2020/02/27 1:28:30 PM MST,pstat / stats / actuarial,Undergraduate student,11/5/2019,14:00,16:45
+2020/02/27 1:28:47 PM MST,computer science,Undergraduate student,11/5/2019,14:00,16:45
+2020/02/27 1:29:08 PM MST,computer science,Undergraduate student,11/5/2019,14:00,
+2020/02/27 1:29:46 PM MST,N/A,illegible,11/5/2019,14:00,
+2020/02/27 1:30:01 PM MST,earth sciences,Undergraduate student,11/5/2019,15:10,15:12
+2020/02/27 1:30:30 PM MST,pstat / stats / actuarial,Undergraduate student,11/5/2019,15:15,17:45
+2020/02/27 1:31:22 PM MST,pstat / stats / actuarial,Undergraduate student,11/5/2019,15:15,
+2020/02/27 1:31:39 PM MST,earth sciences,Undergraduate student,11/5/2019,15:21,18:30
+2020/02/27 1:31:55 PM MST,math,Undergraduate student,11/5/2019,15:22,
+2020/02/27 1:32:15 PM MST,physics,Undergraduate student,11/5/2019,15:22,
+2020/02/27 1:32:31 PM MST,art,Undergraduate student,11/5/2019,15:37,
+2020/02/27 1:32:44 PM MST,econ,Undergraduate student,11/5/2019,15:45,
+2020/02/27 1:33:09 PM MST,earth sciences,Graduate student,11/5/2019,16:27,
+2020/02/27 1:33:32 PM MST,engineering,Undergraduate student,11/5/2019,17:40,19:15
+2020/02/27 1:33:53 PM MST,pstat / stats / actuarial,Undergraduate student,11/5/2019,17:45,
+2020/02/27 1:34:20 PM MST,bren / environmental studies,Undergraduate student,11/6/2019,12:00,
+2020/02/27 1:34:59 PM MST,computer science,Undergraduate student,11/6/2019,12:00,19:50
+2020/02/27 1:35:36 PM MST,bren / environmental studies,Undergraduate student,11/6/2019,12:30,13:45
+2020/02/27 1:35:52 PM MST,bren / environmental studies,Undergraduate student,11/6/2019,12:30,13:45
+2020/02/27 1:36:10 PM MST,bren / environmental studies,Undergraduate student,11/6/2019,13:40,
+2020/02/27 1:36:37 PM MST,geog,Graduate student,11/6/2019,13:20,
+2020/02/27 1:36:59 PM MST,computer science,Graduate student,11/6/2019,13:20,17:51
+2020/02/27 1:37:20 PM MST,pstat / stats / actuarial,Undergraduate student,11/6/2019,13:20,14:50
+2020/02/27 1:37:41 PM MST,econ,Undergraduate student,11/6/2019,13:50,14:00
+2020/02/27 1:38:03 PM MST,pstat / stats / actuarial,Graduate student,11/6/2019,13:55,15:00
+2020/02/27 1:38:20 PM MST,pstat / stats / actuarial,Undergraduate student,11/6/2019,14:12,17:00
+2020/02/27 1:38:42 PM MST,math,Undergraduate student,11/6/2019,14:30,17:00
+2020/02/27 1:38:56 PM MST,math,Undergraduate student,11/6/2019,14:30,
+2020/02/27 1:39:11 PM MST,math,Undergraduate student,11/6/2019,14:30,
+2020/02/27 1:40:09 PM MST,math,Undergraduate student,11/6/2019,14:33,17:00
+2020/02/27 1:40:25 PM MST,pstat / stats / actuarial,Undergraduate student,11/6/2019,14:38,
+2020/02/27 1:40:45 PM MST,physics,Undergraduate student,11/6/2019,15:08,16:50
+2020/02/27 1:41:01 PM MST,pstat / stats / actuarial,Undergraduate student,11/6/2019,15:00,
+2020/02/27 1:41:17 PM MST,geog,Undergraduate student,11/6/2019,15:10,
+2020/02/27 1:41:29 PM MST,geog,Undergraduate student,11/6/2019,15:10,
+2020/02/27 1:41:47 PM MST,pstat / stats / actuarial,Undergraduate student,11/6/2019,16:27,
+2020/02/27 1:42:09 PM MST,econ,Undergraduate student,11/6/2019,18:10,19:45
+2020/02/27 1:42:34 PM MST,pstat / stats / actuarial,Undergraduate student,11/6/2019,18:30,19:45
+2020/02/27 1:45:35 PM MST,psychology,Undergraduate student,11/7/2019,12:35,
+2020/02/27 1:45:53 PM MST,computer science,Undergraduate student,11/7/2019,13:00,
+2020/02/27 1:47:28 PM MST,pstat / stats / actuarial,Undergraduate student,11/7/2019,14:10,16:50
+2020/02/27 1:47:43 PM MST,econ,Undergraduate student,11/7/2019,14:30,18:23
+2020/02/27 1:47:57 PM MST,econ,Undergraduate student,11/7/2019,14:30,18:23
+2020/02/27 1:48:12 PM MST,bren / environmental studies,Undergraduate student,11/7/2019,15:22,
+2020/02/27 1:48:27 PM MST,ece,Undergraduate student,11/7/2019,15:25,17:40
+2020/02/27 1:48:47 PM MST,econ,Undergraduate student,11/7/2019,16:00,16:24
+2020/02/27 1:49:09 PM MST,pstat / stats / actuarial,Undergraduate student,11/7/2019,18:00,
+2020/02/27 1:49:28 PM MST,geog,Undergraduate student,11/7/2019,18:00,
+2020/02/27 1:49:53 PM MST,econ,Undergraduate student,11/7/2019,18:15,
+2020/02/27 1:50:09 PM MST,pstat / stats / actuarial,Undergraduate student,11/7/2019,18:30,
+2020/02/27 1:50:34 PM MST,econ,Undergraduate student,11/7/2019,18:45,
+2020/02/27 1:51:22 PM MST,earth sciences,Undergraduate student,11/8/2019,14:07,14:15
+2020/02/27 1:51:45 PM MST,econ,Undergraduate student,11/8/2019,15:00,17:00
+2020/02/27 1:52:27 PM MST,econ,Undergraduate student,11/8/2019,15:00,17:00
+2020/02/27 1:52:47 PM MST,econ,Undergraduate student,11/8/2019,15:00,
+2020/02/27 1:53:07 PM MST,chemistry,Undergraduate student,11/8/2019,15:00,15:30
+2020/02/27 1:53:29 PM MST,chemistry,Undergraduate student,11/8/2019,15:00,15:30
+2020/02/27 1:53:49 PM MST,ece,Undergraduate student,11/8/2019,15:00,
+2020/02/27 1:54:11 PM MST,computer science,Undergraduate student,11/8/2019,15:00,16:45
+2020/02/27 1:54:39 PM MST,chemistry,Undergraduate student,11/8/2019,15:00,15:30
+2020/02/27 1:55:00 PM MST,econ,Undergraduate student,11/9/2019,13:20,
+2020/02/27 1:55:16 PM MST,geog,Graduate student,11/9/2019,14:20,
+2020/02/27 1:55:33 PM MST,econ,Undergraduate student,11/9/2019,15:20,
+2019/11/15 4:43:54 PM MST,geog,Undergraduate student,11/10/2019,14:16,16:34
+2019/11/15 4:44:19 PM MST,pstat / stats / actuarial,Undergraduate student,11/10/2019,15:00,
+2019/11/15 4:44:50 PM MST,pstat / stats / actuarial,Undergraduate student,11/10/2019,15:30,
+2019/11/15 4:45:16 PM MST,pstat / stats / actuarial,Undergraduate student,11/10/2019,16:00,
+2020/02/27 1:55:49 PM MST,computer science,Undergraduate student,11/10/2019,13:30,
+2019/11/15 4:33:45 PM MST,econ,Undergraduate student,11/12/2019,12:52,
+2019/11/15 4:34:14 PM MST,geog,Undergraduate student,11/12/2019,1:11,
+2019/11/15 4:35:01 PM MST,geog,Undergraduate student,11/12/2019,13:47,17:08
+2019/11/15 4:36:06 PM MST,econ,Undergraduate student,11/12/2019,13:51,15:15
+2019/11/15 4:36:48 PM MST,computer science,Undergraduate student,11/12/2019,14:00,16:40
+2019/11/15 4:37:54 PM MST,pstat / stats / actuarial,Undergraduate student,11/12/2019,14:00,16:48
+2019/11/15 4:39:46 PM MST,geog,Undergraduate student,11/12/2019,14:00,14:30
+2019/11/15 4:40:26 PM MST,computer science,Undergraduate student,11/12/2019,14:09,
+2019/11/15 4:41:43 PM MST,computer science,Graduate student,11/12/2019,14:09,
+2019/11/15 4:42:11 PM MST,econ,Undergraduate student,11/12/2019,14:10,15:11
+2019/11/15 4:42:32 PM MST,econ,Undergraduate student,11/12/2019,14:10,
+2019/11/15 4:43:29 PM MST,pstat / stats / actuarial,Undergraduate student,11/12/2019,14:15,
+2019/11/15 4:45:53 PM MST,geog,Undergraduate student,11/12/2019,12:00,13:12
+2019/11/15 4:46:55 PM MST,geog,Undergraduate student,11/12/2019,13:00,13:53
+2019/11/15 4:47:19 PM MST,global,Undergraduate student,11/12/2019,12:00,13:42
+2019/11/15 4:47:50 PM MST,econ,Undergraduate student,11/12/2019,12:25,
+2019/11/15 4:48:22 PM MST,art,Undergraduate student,11/12/2019,12:25,13:59
+2019/11/15 4:48:53 PM MST,econ,Undergraduate student,11/12/2019,12:30,14:15
+2019/11/15 4:49:11 PM MST,econ,Undergraduate student,11/12/2019,12:30,
+2019/11/18 5:55:34 PM MST,econ,Undergraduate student,11/12/2019,14:20,14:45
+2019/11/18 5:55:57 PM MST,art,Undergraduate student,11/12/2019,15:15,19:00
+2019/11/18 5:56:19 PM MST,pstat / stats / actuarial,Undergraduate student,11/12/2019,15:20,
+2019/11/18 5:56:42 PM MST,econ,Undergraduate student,11/12/2019,15:21,16:00
+2019/11/18 5:57:10 PM MST,pstat / stats / actuarial,Undergraduate student,11/12/2019,15:38,
+2019/11/18 5:57:30 PM MST,econ,Undergraduate student,11/12/2019,15:55,
+2019/11/18 5:57:51 PM MST,econ,Undergraduate student,11/12/2019,15:55,
+2019/11/18 5:58:07 PM MST,econ,Undergraduate student,11/12/2019,16:00,
+2019/11/18 5:58:26 PM MST,geog,Undergraduate student,11/12/2019,16:08,
+2019/11/18 5:58:52 PM MST,econ,Undergraduate student,11/12/2019,16:30,
+2019/11/18 5:59:11 PM MST,bren / environmental studies,Graduate student,11/12/2019,17:00,
+2019/11/18 5:59:29 PM MST,engineering,Undergraduate student,11/12/2019,19:20,
+2019/11/18 8:43:25 PM MST,pstat / stats / actuarial,Undergraduate student,11/12/2019,17:13,
+2019/11/18 8:43:43 PM MST,pstat / stats / actuarial,Undergraduate student,11/12/2019,18:00,
+2019/11/18 8:44:04 PM MST,geog,Undergraduate student,11/12/2019,18:43,
+2019/11/18 8:44:21 PM MST,engineering,Undergraduate student,11/12/2019,19:06,
+2019/11/18 8:44:49 PM MST,econ,Undergraduate student,11/12/2019,12:00,
+2019/11/18 8:45:10 PM MST,econ,Undergraduate student,11/12/2019,12:16,13:13
+2019/11/18 8:46:39 PM MST,pstat / stats / actuarial,Undergraduate student,11/12/2019,12:15,14:50
+2019/11/18 8:45:36 PM MST,pstat / stats / actuarial,Undergraduate student,11/13/2019,12:15,13:45
+2019/11/18 8:46:14 PM MST,pstat / stats / actuarial,Undergraduate student,11/13/2019,12:15,
+2019/11/18 8:46:59 PM MST,pstat / stats / actuarial,Undergraduate student,11/13/2019,13:00,
+2019/11/18 8:47:29 PM MST,exercise & sport,Undergraduate student,11/13/2019,13:00,14:00
+2019/11/18 8:48:07 PM MST,psychology,Undergraduate student,11/13/2019,13:09,
+2019/11/18 8:48:31 PM MST,econ,Undergraduate student,11/13/2019,13:44,16:50
+2019/11/18 8:48:51 PM MST,pstat / stats / actuarial,Undergraduate student,11/13/2019,13:45,
+2019/11/18 8:49:06 PM MST,pstat / stats / actuarial,Undergraduate student,11/13/2019,13:50,
+2019/11/18 8:49:27 PM MST,pstat / stats / actuarial,Undergraduate student,11/13/2019,14:00,14:52
+2019/11/18 8:50:06 PM MST,econ,Undergraduate student,11/13/2019,15:04,16:50
+2019/11/18 8:50:30 PM MST,pstat / stats / actuarial,Undergraduate student,11/13/2019,15:00,
+2019/11/18 8:51:06 PM MST,math,Undergraduate student,11/13/2019,13:00,
+2019/11/18 8:51:48 PM MST,math,Undergraduate student,11/13/2019,14:00,
+2019/11/18 8:52:15 PM MST,geog,Undergraduate student,11/13/2019,14:57,16:35
+2019/11/21 1:13:12 PM MST,physics,Undergraduate student,11/13/2019,15:00,16:50
+2019/11/21 1:13:41 PM MST,pstat / stats / actuarial,Undergraduate student,11/13/2019,15:15,16:00
+2019/11/21 1:14:10 PM MST,pstat / stats / actuarial,Undergraduate student,11/13/2019,15:50,16:50
+2019/11/21 1:14:40 PM MST,econ,Undergraduate student,11/13/2019,16:00,18:00
+2019/11/21 1:15:16 PM MST,econ,Undergraduate student,11/13/2019,16:00,18:00
+2019/11/21 1:15:51 PM MST,geog,Undergraduate student,11/13/2019,16:26,18:46
+2019/11/21 1:16:15 PM MST,econ,Undergraduate student,11/13/2019,16:30,
+2019/11/21 1:17:03 PM MST,chemistry,Undergraduate student,11/13/2019,16:30,
+2019/11/21 1:17:43 PM MST,econ,Undergraduate student,11/13/2019,16:18,18:00
+2019/11/21 1:18:12 PM MST,econ,Undergraduate student,11/13/2019,17:00,18:15
+2019/11/21 1:18:39 PM MST,geog,Undergraduate student,11/13/2019,17:00,
+2019/11/21 1:19:32 PM MST,pstat / stats / actuarial,Graduate student,11/13/2019,17:00,
+2019/11/21 1:20:26 PM MST,pstat / stats / actuarial,Undergraduate student,11/13/2019,17:15,
+2019/11/21 1:20:45 PM MST,econ,Undergraduate student,11/13/2019,18:10,
+2019/11/21 1:22:06 PM MST,computer science,Undergraduate student,11/13/2019,18:52,20:00
+2019/11/21 1:22:36 PM MST,econ,Undergraduate student,11/13/2019,18:30,19:53
+2019/11/21 1:23:01 PM MST,econ,Graduate student,11/13/2019,18:42,20:00
+2019/11/21 1:23:28 PM MST,econ,Undergraduate student,11/14/2019,12:30,
+2019/11/21 1:23:47 PM MST,econ,Undergraduate student,11/14/2019,12:30,
+2019/11/21 1:24:05 PM MST,econ,Undergraduate student,11/14/2019,12:56,
+2019/11/21 1:24:59 PM MST,econ,Undergraduate student,11/14/2019,12:36,
+2019/11/21 1:25:23 PM MST,geog,Undergraduate student,11/14/2019,12:50,14:30
+2019/11/21 1:25:48 PM MST,econ,Undergraduate student,11/14/2019,12:50,13:30
+2019/11/21 1:26:51 PM MST,econ,Undergraduate student,11/14/2019,13:02,
+2019/11/21 1:27:05 PM MST,econ,Undergraduate student,11/14/2019,13:10,
+2019/11/21 1:27:23 PM MST,psychology,Undergraduate student,11/14/2019,13:30,
+2019/11/21 1:28:06 PM MST,computer science,Undergraduate student,11/14/2019,13:30,13:40
+2019/11/21 1:28:21 PM MST,econ,Undergraduate student,11/14/2019,13:30,
+2019/11/21 1:28:45 PM MST,geog,Undergraduate student,11/14/2019,13:30,
+2019/11/21 1:29:04 PM MST,econ,Undergraduate student,11/14/2019,14:00,
+2019/11/21 1:29:25 PM MST,econ,Undergraduate student,11/14/2019,14:00,
+2019/11/21 1:29:44 PM MST,econ,Undergraduate student,11/14/2019,14:33,
+2019/11/21 1:30:00 PM MST,econ,Undergraduate student,11/14/2019,15:10,
+2019/11/21 1:30:18 PM MST,geog,Undergraduate student,11/14/2019,15:00,
+2019/11/18 2:25:15 PM MST,econ,Undergraduate student,11/15/2019,14:30,
+2019/11/18 2:25:48 PM MST,econ,Undergraduate student,11/15/2019,14:30,15:50
+2019/11/18 2:26:16 PM MST,econ,Undergraduate student,11/15/2019,14:30,15:50
+2019/11/18 2:26:53 PM MST,econ,Undergraduate student,11/15/2019,14:45,16:30
+2019/11/18 2:27:18 PM MST,psychology,Undergraduate student,11/15/2019,14:49,
+2019/11/18 2:27:48 PM MST,econ,Undergraduate student,11/15/2019,15:00,15:45
+2019/11/18 2:28:13 PM MST,econ,Undergraduate student,11/15/2019,15:15,16:00
+2019/11/18 2:28:34 PM MST,engineering,Undergraduate student,11/15/2019,15:15,16:00
+2019/11/18 2:28:59 PM MST,econ,Undergraduate student,11/15/2019,15:30,16:00
+2019/11/18 2:36:55 PM MST,engineering,Undergraduate student,11/15/2019,13:35,16:00
+2019/11/18 2:36:19 PM MST,linguistics,Undergraduate student,11/16/2019,13:35,15:02
+2019/11/18 2:37:18 PM MST,math,Undergraduate student,11/16/2019,14:00,
+2019/11/18 2:37:41 PM MST,pstat / stats / actuarial,Undergraduate student,11/16/2019,15:01,
+2019/11/18 2:37:57 PM MST,pstat / stats / actuarial,Undergraduate student,11/16/2019,15:05,
+2019/11/18 2:38:25 PM MST,pstat / stats / actuarial,Undergraduate student,11/16/2019,12:00,1:15
+2019/11/18 2:29:29 PM MST,econ,Undergraduate student,11/17/2019,13:30,
+2019/11/18 2:30:13 PM MST,math,Undergraduate student,11/17/2019,13:45,19:42
+2019/11/18 2:30:35 PM MST,biology/eemb/mcdb,Undergraduate student,11/17/2019,13:45,17:00
+2019/11/18 2:30:58 PM MST,econ,Undergraduate student,11/17/2019,13:47,14:20
+2019/11/18 2:32:04 PM MST,math,Undergraduate student,11/17/2019,13:52,15:00
+2019/11/18 2:32:26 PM MST,communication,Undergraduate student,11/17/2019,13:52,14:00
+2019/11/18 2:32:53 PM MST,anth,Undergraduate student,11/17/2019,13:53,15:00
+2019/11/18 2:33:14 PM MST,english,Undergraduate student,11/17/2019,14:15,
+2019/11/18 2:33:45 PM MST,geog,Undergraduate student,11/17/2019,14:15,19:19
+2019/11/18 2:34:19 PM MST,geog,Undergraduate student,11/17/2019,14:15,19:19
+2019/11/18 2:34:37 PM MST,pstat / stats / actuarial,Undergraduate student,11/17/2019,14:50,
+2019/11/18 2:35:07 PM MST,pstat / stats / actuarial,Undergraduate student,11/17/2019,15:00,16:56
+2019/11/18 2:38:49 PM MST,econ,Undergraduate student,11/17/2019,12:25,
+2019/11/18 2:39:15 PM MST,computer science,Undergraduate student,11/17/2019,12:30,13:41
+2019/11/18 2:39:36 PM MST,econ,Undergraduate student,11/17/2019,13:16,13:37
+2019/11/18 2:39:55 PM MST,math,Undergraduate student,11/17/2019,13:25,
+2019/11/18 2:40:15 PM MST,econ,Undergraduate student,11/17/2019,14:00,
+2019/11/21 1:31:11 PM MST,pstat / stats / actuarial,Undergraduate student,11/17/2019,15:01,17:11
+2019/11/21 1:31:33 PM MST,pstat / stats / actuarial,Undergraduate student,11/17/2019,15:00,
+2019/11/21 1:31:55 PM MST,pstat / stats / actuarial,Undergraduate student,11/17/2019,15:25,
+2019/11/21 1:32:21 PM MST,pstat / stats / actuarial,Undergraduate student,11/17/2019,15:32,17:00
+2019/11/21 1:32:39 PM MST,econ,Undergraduate student,11/17/2019,15:40,
+2019/11/21 1:32:55 PM MST,econ,Undergraduate student,11/17/2019,16:20,
+2019/11/21 1:33:22 PM MST,econ,Undergraduate student,11/17/2019,17:30,18:55
+2019/11/21 1:33:40 PM MST,econ,Undergraduate student,11/18/2019,12:04,
+2019/11/21 1:34:12 PM MST,computer science,Undergraduate student,11/18/2019,12:18,14:30
+2019/11/21 1:34:36 PM MST,geog,Undergraduate student,11/18/2019,12:29,13:16
+2019/11/21 1:34:57 PM MST,econ,Undergraduate student,11/18/2019,12:46,15:15
+2019/11/21 1:35:19 PM MST,psychology,Undergraduate student,11/18/2019,13:10,
+2019/11/21 1:35:39 PM MST,econ,Undergraduate student,11/18/2019,13:10,
+2019/11/21 1:36:16 PM MST,econ,Undergraduate student,11/18/2019,13:30,13:40
+2019/11/21 1:36:37 PM MST,econ,Undergraduate student,11/18/2019,13:42,15:12
+2019/11/21 1:37:20 PM MST,pstat / stats / actuarial,Undergraduate student,11/18/2019,14:00,15:13
+2019/11/21 1:37:36 PM MST,computer science,Undergraduate student,11/18/2019,14:00,
+2019/11/21 1:37:52 PM MST,computer science,Undergraduate student,11/18/2019,14:00,
+2019/11/21 1:38:12 PM MST,computer science,Undergraduate student,11/18/2019,14:00,
+2019/11/21 1:38:38 PM MST,econ,Undergraduate student,11/18/2019,14:08,14:52
+2019/11/21 1:38:59 PM MST,econ,Undergraduate student,11/18/2019,14:30,
+2019/11/21 1:39:23 PM MST,physics,Undergraduate student,11/18/2019,14:36,
+2019/11/21 1:39:51 PM MST,pstat / stats / actuarial,Undergraduate student,11/18/2019,14:50,16:29
+2019/11/21 1:40:08 PM MST,pstat / stats / actuarial,Undergraduate student,11/18/2019,14:57,15:50
+2019/11/21 1:40:26 PM MST,pstat / stats / actuarial,Undergraduate student,11/18/2019,15:02,
+2019/11/21 5:37:28 PM MST,engineering,Undergraduate student,11/18/2019,15:06,18:22
+2019/11/21 5:37:58 PM MST,pstat / stats / actuarial,Undergraduate student,11/18/2019,15:08,
+2019/11/21 5:38:21 PM MST,physics,Undergraduate student,11/18/2019,15:22,18:24
+2019/11/21 5:38:55 PM MST,pstat / stats / actuarial,Undergraduate student,11/18/2019,15:25,18:47
+2019/11/21 5:39:20 PM MST,pstat / stats / actuarial,Undergraduate student,11/18/2019,15:50,19:30
+2019/11/21 5:40:00 PM MST,math,Undergraduate student,11/18/2019,16:00,19:30
+2019/11/21 5:40:20 PM MST,pstat / stats / actuarial,Undergraduate student,11/18/2019,16:40,18:00
+2019/11/21 5:40:56 PM MST,pstat / stats / actuarial,Undergraduate student,11/18/2019,16:40,18:45
+2019/11/21 5:41:22 PM MST,econ,Undergraduate student,11/18/2019,16:50,17:50
+2019/11/21 5:41:44 PM MST,econ,Undergraduate student,11/18/2019,16:57,
+2019/11/21 5:42:04 PM MST,econ,Undergraduate student,11/18/2019,17:02,
+2019/11/21 5:42:22 PM MST,econ,Undergraduate student,11/18/2019,17:03,
+2020/01/08 1:19:29 PM MST,econ,Undergraduate student,11/18/2019,17:18,
+2020/01/08 1:19:45 PM MST,econ,Undergraduate student,11/18/2019,17:35,
+2020/01/08 1:20:12 PM MST,econ,Undergraduate student,11/18/2019,18:06,19:39
+2020/01/08 1:20:28 PM MST,econ,Undergraduate student,11/18/2019,18:12,
+2020/01/08 1:21:00 PM MST,engineering,Undergraduate student,11/18/2019,18:20,19:30
+2020/01/08 1:21:15 PM MST,econ,Undergraduate student,11/18/2019,19:00,
+2020/01/08 1:21:44 PM MST,bren / environmental studies,Graduate student,11/19/2019,23:30,13:00
+2020/01/08 1:22:03 PM MST,ece,Visiting,11/19/2019,13:16,
+2020/01/08 1:23:02 PM MST,computer science,Undergraduate student,11/19/2019,13:29,15:15
+2020/01/08 1:23:16 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,13:34,15:00
+2020/01/08 1:23:36 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,13:35,13:45
+2020/01/08 1:23:54 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,13:52,15:10
+2020/01/08 1:24:14 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,13:52,17:00
+2020/01/08 1:24:28 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,13:52,
+2020/01/08 1:24:48 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,13:54,15:15
+2020/01/08 1:25:01 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,13:55,15:15
+2020/01/08 1:25:29 PM MST,physics,Undergraduate student,11/19/2019,14:05,14:45
+2020/01/08 1:25:46 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,14:06,
+2020/01/08 1:25:58 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,14:10,
+2020/01/08 1:26:11 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,14:10,
+2020/01/08 1:27:24 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,15:20,
+2020/01/08 1:27:43 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,15:20,16:45
+2020/01/08 1:28:04 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,15:20,
+2020/01/08 1:28:19 PM MST,geog,Undergraduate student,11/19/2019,15:24,19:09
+2020/01/08 1:28:38 PM MST,pstat / stats / actuarial,Undergraduate student,11/19/2019,15:24,16:45
+2020/01/08 1:29:11 PM MST,earth sciences,Undergraduate student,11/19/2019,15:30,17:30
+2020/01/08 1:29:35 PM MST,econ,Graduate student,11/19/2019,15:48,16:30
+2020/01/08 1:30:06 PM MST,geog,Undergraduate student,11/19/2019,15:49,
+2020/01/08 1:30:20 PM MST,econ,Undergraduate student,11/19/2019,16:00,
+2020/01/08 1:30:35 PM MST,computer science,Undergraduate student,11/19/2019,17:00,20:00
+2020/01/08 1:30:56 PM MST,geog,Undergraduate student,11/19/2019,17:45,19:05
+2020/01/08 1:31:31 PM MST,geog,Undergraduate student,11/19/2019,18:00,
+2020/01/08 1:31:47 PM MST,geog,Undergraduate student,11/19/2019,18:25,
+2020/01/08 1:32:11 PM MST,earth sciences,Undergraduate student,11/20/2019,12:02,12:04
+2020/01/08 1:32:25 PM MST,earth sciences,Undergraduate student,11/20/2019,12:00,14:00
+2020/01/08 1:32:44 PM MST,chemistry,Undergraduate student,11/20/2019,12:00,12:40
+2020/01/08 1:33:01 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,12:29,14:50
+2020/01/08 1:33:34 PM MST,computer science,Undergraduate student,11/20/2019,12:22,16:50
+2020/01/08 1:33:50 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,12:22,14:49
+2020/01/08 1:34:17 PM MST,earth sciences,Undergraduate student,11/20/2019,12:30,13:45
+2020/01/08 1:34:33 PM MST,earth sciences,Undergraduate student,11/20/2019,12:30,13:45
+2020/01/08 1:34:57 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,13:44,13:46
+2020/01/08 1:36:00 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,13:50,14:40
+2020/01/08 1:36:12 PM MST,econ,Undergraduate student,11/20/2019,14:43,
+2020/01/08 1:36:30 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,14:55,16:50
+2020/01/08 1:36:45 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,18:40,19:20
+2020/01/08 1:38:20 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,14:00,17:04
+2020/01/08 1:38:33 PM MST,pstat / stats / actuarial,Graduate student,11/20/2019,14:01,14:59
+2020/01/08 1:38:46 PM MST,econ,Undergraduate student,11/20/2019,14:10,15:00
+2020/01/08 1:39:01 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,14:11,
+2020/01/08 1:39:22 PM MST,geog,Undergraduate student,11/20/2019,14:12,
+2020/01/08 1:39:37 PM MST,geog,Undergraduate student,11/20/2019,14:12,
+2020/01/08 1:39:56 PM MST,geog,Undergraduate student,11/20/2019,14:12,14:33
+2020/01/08 1:40:11 PM MST,engineering,Undergraduate student,11/20/2019,14:20,16:14
+2020/01/08 1:40:40 PM MST,engineering,Graduate student,11/20/2019,14:20,19:45
+2020/01/08 1:41:23 PM MST,physics,Undergraduate student,11/20/2019,14:19,18:32
+2020/01/08 1:41:38 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,14:41,16:35
+2020/01/08 1:42:13 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,14:57,
+2020/01/08 1:42:32 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,14:57,15:11
+2020/01/08 1:42:46 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,15:00,16:30
+2020/01/08 1:43:02 PM MST,geog,Undergraduate student,11/20/2019,15:00,16:45
+2020/01/08 1:43:19 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,15:00,17:00
+2020/01/08 1:43:34 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,15:00,
+2020/01/08 1:43:46 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,15:00,18:00
+2020/01/08 1:43:58 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,15:00,
+2020/01/08 1:44:16 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,15:15,
+2020/01/08 1:44:30 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,15:15,
+2020/01/08 1:44:43 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,15:15,
+2020/01/08 1:44:57 PM MST,pstat / stats / actuarial,Undergraduate student,11/20/2019,15:30,16:50
+2020/01/08 1:45:20 PM MST,engineering,Undergraduate student,11/20/2019,15:33,15:59
+2020/01/08 1:45:33 PM MST,geog,Undergraduate student,11/20/2019,15:40,
+2020/01/08 1:45:51 PM MST,pstat / stats / actuarial,Undergraduate student,11/21/2019,14:10,13:10
+2020/01/08 1:46:11 PM MST,math,Undergraduate student,11/21/2019,12:30,14:00
+2020/01/08 1:46:44 PM MST,pstat / stats / actuarial,Undergraduate student,11/21/2019,12:30,13:45
+2020/01/08 1:46:55 PM MST,geog,Undergraduate student,11/21/2019,13:00,
+2020/01/08 1:47:11 PM MST,geog,Undergraduate student,11/21/2019,12:30,15:30
+2020/01/08 1:47:23 PM MST,geog,Undergraduate student,11/21/2019,13:15,13:46
+2020/01/08 1:47:41 PM MST,psychology,Undergraduate student,11/21/2019,13:34,
+2020/01/08 1:47:52 PM MST,math,Undergraduate student,11/21/2019,13:40,
+2020/01/08 1:48:07 PM MST,math,Undergraduate student,11/21/2019,13:40,14:22
+2020/01/08 1:54:44 PM MST,math,Undergraduate student,11/21/2019,17:00,
+2020/01/08 1:54:56 PM MST,pstat / stats / actuarial,Undergraduate student,11/21/2019,17:55,
+2020/01/08 1:55:16 PM MST,pstat / stats / actuarial,Undergraduate student,11/21/2019,17:55,
+2020/01/08 1:55:37 PM MST,pstat / stats / actuarial,Undergraduate student,11/21/2019,17:59,18:43
+2020/01/08 1:55:55 PM MST,pstat / stats / actuarial,Undergraduate student,11/21/2019,18:00,
+2020/01/08 1:56:07 PM MST,pstat / stats / actuarial,Undergraduate student,11/21/2019,18:00,
+2020/01/08 1:56:20 PM MST,pstat / stats / actuarial,Undergraduate student,11/21/2019,18:10,19:52
+2020/01/08 1:56:33 PM MST,econ,Graduate student,11/21/2019,18:15,18:30
+2020/01/08 1:56:45 PM MST,pstat / stats / actuarial,Undergraduate student,11/21/2019,18:30,
+2020/01/08 1:56:57 PM MST,engineering,Undergraduate student,11/21/2019,19:00,
+2020/01/08 1:57:16 PM MST,english,Undergraduate student,11/21/2019,19:00,20:00
+2020/01/08 1:57:30 PM MST,biology/eemb/mcdb,Undergraduate student,11/21/2019,19:00,20:00
+2020/01/08 1:57:44 PM MST,english,Undergraduate student,11/21/2019,19:01,19:36
+2020/01/08 1:48:29 PM MST,econ,Undergraduate student,11/22/2019,13:45,
+2020/01/08 1:48:40 PM MST,earth sciences,Undergraduate student,11/22/2019,13:50,
+2020/01/08 1:48:54 PM MST,pstat / stats / actuarial,Undergraduate student,11/22/2019,13:50,
+2020/01/08 1:49:06 PM MST,pstat / stats / actuarial,Undergraduate student,11/22/2019,13:50,
+2020/01/08 1:49:24 PM MST,geog,Undergraduate student,11/22/2019,13:53,15:00
+2020/01/08 1:49:42 PM MST,geog,Undergraduate student,11/22/2019,14:00,15:15
+2020/01/08 1:49:55 PM MST,math,Undergraduate student,11/22/2019,14:11,
+2020/01/08 1:50:04 PM MST,econ,Undergraduate student,11/22/2019,14:22,
+2020/01/08 1:50:16 PM MST,math,Undergraduate student,11/22/2019,14:22,
+2020/01/08 1:50:35 PM MST,geog,Undergraduate student,11/22/2019,14:15,
+2020/01/08 1:50:51 PM MST,pstat / stats / actuarial,Undergraduate student,11/22/2019,14:21,15:30
+2020/01/08 1:51:05 PM MST,math,Undergraduate student,11/22/2019,15:06,15:30
+2020/01/08 1:51:26 PM MST,geog,Undergraduate student,11/22/2019,15:06,
+2020/01/08 1:58:56 PM MST,physics,Undergraduate student,11/22/2019,12:02,12:25
+2020/01/08 1:59:13 PM MST,computer science,Undergraduate student,11/22/2019,12:02,13:00
+2020/01/08 1:59:31 PM MST,pstat / stats / actuarial,Undergraduate student,11/22/2019,12:03,14:21
+2020/01/08 1:59:42 PM MST,earth sciences,Undergraduate student,11/22/2019,12:25,12:50
+2020/01/08 1:59:56 PM MST,earth sciences,Undergraduate student,11/22/2019,12:30,14:00
+2020/01/08 2:00:10 PM MST,earth sciences,Undergraduate student,11/22/2019,12:50,14:00
+2020/01/08 2:00:22 PM MST,earth sciences,Undergraduate student,11/22/2019,12:23,14:00
+2020/01/08 2:00:57 PM MST,pstat / stats / actuarial,Undergraduate student,11/22/2019,13:24,14:30
+2020/01/08 2:01:12 PM MST,engineering,Graduate student,11/22/2019,13:26,14:50
+2020/01/08 2:01:23 PM MST,math,Undergraduate student,11/22/2019,14:20,
+2020/01/08 2:01:39 PM MST,earth sciences,Undergraduate student,11/22/2019,14:55,15:54
+2019/11/21 5:55:40 PM MST,pstat / stats / actuarial,Undergraduate student,11/23/2019,15:20,
+2020/01/08 2:01:51 PM MST,econ,Undergraduate student,11/23/2019,12:40,
+2020/01/08 2:02:21 PM MST,math,Undergraduate student,11/23/2019,12:30,
+2020/01/08 2:02:32 PM MST,english,Undergraduate student,11/23/2019,13:29,
+2020/01/08 2:02:42 PM MST,computer science,Undergraduate student,11/23/2019,13:47,
+2020/01/08 2:02:54 PM MST,math,Undergraduate student,11/23/2019,13:50,
+2020/01/08 2:03:15 PM MST,earth sciences,Undergraduate student,11/23/2019,14:06,16:00
+2020/01/08 2:03:28 PM MST,earth sciences,Undergraduate student,11/23/2019,14:06,15:22
+2020/01/08 2:03:42 PM MST,pstat / stats / actuarial,Undergraduate student,11/23/2019,14:49,
+2020/01/08 2:03:57 PM MST,earth sciences,Undergraduate student,11/23/2019,15:05,
+2020/01/08 2:04:09 PM MST,earth sciences,Undergraduate student,11/23/2019,15:25,
+2020/01/08 2:04:23 PM MST,engineering,Undergraduate student,11/23/2019,12:00,18:30
+2020/01/08 2:04:37 PM MST,english,Undergraduate student,11/24/2019,12:15,20:00
+2020/01/08 2:05:07 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,14:07,
+2020/01/08 2:05:21 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,14:22,14:25
+2020/01/08 2:05:32 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,14:30,
+2020/01/08 2:05:46 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,14:30,17:10
+2020/01/08 2:06:00 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,14:30,
+2020/01/08 2:06:14 PM MST,geog,Undergraduate student,11/24/2019,14:49,
+2020/01/08 2:06:26 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,14:49,16:42
+2020/01/08 2:06:37 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,15:00,
+2020/01/08 2:06:54 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,15:00,19:30
+2020/01/08 2:07:06 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,15:00,16:30
+2020/01/08 2:07:42 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,15:00,17:15
+2020/01/08 2:07:55 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,15:00,17:15
+2020/01/08 2:08:08 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,15:10,
+2020/01/08 2:08:21 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,15:15,
+2020/01/08 2:08:36 PM MST,econ,Undergraduate student,11/24/2019,15:15,
+2020/01/08 2:08:47 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,15:30,18:00
+2020/01/08 2:08:59 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,16:00,
+2020/01/08 2:09:21 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,16:00,
+2020/01/08 2:09:38 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,16:15,
+2020/01/08 2:09:54 PM MST,pstat / stats / actuarial,Undergraduate student,11/24/2019,16:15,17:18
+2020/01/08 2:10:08 PM MST,biology/eemb/mcdb,Undergraduate student,11/24/2019,18:52,20:00
+2019/12/03 5:15:44 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,17:06,
+2019/12/03 5:16:16 PM MST,computer science,Undergraduate student,11/25/2019,17:30,
+2019/12/03 5:16:30 PM MST,econ,Undergraduate student,11/25/2019,18:00,
+2019/12/03 5:23:18 PM MST,econ,Undergraduate student,11/25/2019,0:10,14:15
+2019/12/03 5:23:39 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,12:32,16:05
+2019/12/03 5:24:46 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,12:35,13:50
+2019/12/03 5:25:09 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,13:18,
+2019/12/03 5:25:39 PM MST,computer science,Undergraduate student,11/25/2019,13:20,
+2019/12/03 5:26:08 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,13:32,16:12
+2019/12/03 5:27:54 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,13:40,15:40
+2019/12/03 5:28:19 PM MST,engineering,Graduate student,11/25/2019,13:40,18:00
+2019/12/03 5:28:34 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,13:56,16:12
+2019/12/03 5:28:51 PM MST,pstat / stats / actuarial,Graduate student,11/25/2019,14:00,14:55
+2019/12/03 5:29:09 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,14:10,
+2019/12/03 5:29:22 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,14:20,
+2020/01/08 1:08:19 PM MST,econ,Undergraduate student,11/25/2019,12:10,14:15
+2020/01/08 1:09:19 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,12:32,16:05
+2020/01/08 1:09:40 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,12:42,13:50
+2020/01/08 1:09:55 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,13:18,
+2020/01/08 1:10:31 PM MST,computer science,Undergraduate student,11/25/2019,13:20,
+2020/01/08 1:11:10 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,13:40,16:12
+2020/01/08 1:11:51 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,13:30,15:40
+2020/01/08 1:12:42 PM MST,engineering,Graduate student,11/25/2019,13:40,18:00
+2020/01/08 1:13:18 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,13:56,16:12
+2020/01/08 1:13:38 PM MST,pstat / stats / actuarial,Graduate student,11/25/2019,14:00,14:55
+2020/01/08 1:13:55 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,14:10,
+2020/01/08 1:14:07 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,14:20,
+2020/01/08 1:14:55 PM MST,econ,Undergraduate student,11/25/2019,14:58,17:00
+2020/01/08 1:15:14 PM MST,econ,Undergraduate student,11/25/2019,14:58,17:00
+2020/01/08 1:15:39 PM MST,math,Undergraduate student,11/25/2019,15:30,18:00
+2020/01/08 1:15:58 PM MST,bren / environmental studies,Undergraduate student,11/25/2019,15:25,18:50
+2020/01/08 1:16:14 PM MST,bren / environmental studies,Undergraduate student,11/25/2019,15:30,18:35
+2020/01/08 1:16:29 PM MST,math,Undergraduate student,11/25/2019,15:30,
+2020/01/08 1:16:52 PM MST,computer science,Undergraduate student,11/25/2019,15:30,
+2020/01/08 1:17:07 PM MST,computer science,Undergraduate student,11/25/2019,16:00,
+2020/01/08 1:17:24 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,16:05,
+2020/01/08 1:17:44 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,16:36,17:45
+2020/01/08 1:18:13 PM MST,earth sciences,Undergraduate student,11/25/2019,16:45,18:50
+2020/01/08 1:18:35 PM MST,pstat / stats / actuarial,Undergraduate student,11/25/2019,17:33,18:00
+2020/01/08 1:19:13 PM MST,econ,Undergraduate student,11/25/2019,17:05,18:40
+2020/01/08 1:35:39 PM MST,geog,Undergraduate student,11/25/2019,12:05,
+2020/01/08 2:10:23 PM MST,engineering,Undergraduate student,11/25/2019,12:05,
+2019/12/03 5:16:50 PM MST,pstat / stats / actuarial,Undergraduate student,11/26/2019,12:00,13:00
+2019/12/03 5:19:05 PM MST,pstat / stats / actuarial,Undergraduate student,11/26/2019,12:27,14:00
+2019/12/03 5:19:41 PM MST,pstat / stats / actuarial,Undergraduate student,11/26/2019,13:00,13:20
+2019/12/03 5:20:33 PM MST,econ,Undergraduate student,11/26/2019,13:40,14:36
+2019/12/03 5:20:57 PM MST,pstat / stats / actuarial,Undergraduate student,11/26/2019,13:45,14:10
+2019/12/03 5:21:18 PM MST,engineering,Graduate student,11/26/2019,15:00,
+2019/12/03 5:01:10 PM MST,geog,Graduate student,11/27/2019,12:40,
+2019/12/03 5:01:34 PM MST,geog,Undergraduate student,12/1/2019,15:24,
+2019/12/03 5:01:58 PM MST,geog,Undergraduate student,12/1/2019,15:43,17:45
+2019/12/03 5:02:26 PM MST,geog,Undergraduate student,12/1/2019,19:05,19:59
+2019/12/03 5:02:57 PM MST,pstat / stats / actuarial,Undergraduate student,12/2/2019,12:06,17:07
+2019/12/03 5:03:18 PM MST,pstat / stats / actuarial,Undergraduate student,12/2/2019,12:06,17:07
+2019/12/03 5:03:40 PM MST,earth sciences,Undergraduate student,12/2/2019,12:30,14:00
+2019/12/03 5:04:06 PM MST,earth sciences,Undergraduate student,12/2/2019,12:30,
+2019/12/03 5:04:28 PM MST,earth sciences,Undergraduate student,12/2/2019,12:30,14:00
+2019/12/03 5:04:44 PM MST,geog,Graduate student,12/2/2019,12:30,
+2019/12/03 5:05:02 PM MST,econ,Undergraduate student,12/2/2019,12:30,13:30
+2019/12/03 5:06:42 PM MST,econ,Undergraduate student,12/2/2019,12:45,
+2019/12/03 5:07:10 PM MST,psychology,Undergraduate student,12/2/2019,13:00,
+2019/12/03 5:07:29 PM MST,earth sciences,Undergraduate student,12/2/2019,13:00,14:00
+2019/12/03 5:07:59 PM MST,engineering,Undergraduate student,12/2/2019,13:31,14:00
+2019/12/03 5:08:21 PM MST,pstat / stats / actuarial,Undergraduate student,12/2/2019,13:58,15:02
+2019/12/03 5:08:58 PM MST,pstat / stats / actuarial,Undergraduate student,12/2/2019,14:00,16:00
+2019/12/03 5:10:14 PM MST,pstat / stats / actuarial,Undergraduate student,12/2/2019,14:00,16:00
+2019/12/03 5:11:04 PM MST,math,Undergraduate student,12/2/2019,14:11,17:00
+2019/12/03 5:12:50 PM MST,engineering,Undergraduate student,12/2/2019,14:11,17:50
+2019/12/03 5:13:31 PM MST,computer science,Undergraduate student,12/2/2019,14:50,14:35
+2019/12/03 5:14:06 PM MST,physics,Undergraduate student,12/2/2019,16:59,18:15
+2019/12/03 5:14:46 PM MST,engineering,Undergraduate student,12/2/2019,14:59,18:00
+2019/12/03 5:15:17 PM MST,math,Undergraduate student,12/2/2019,14:59,15:15
+2019/12/06 2:20:44 PM MST,engineering,Undergraduate student,12/2/2019,15:03,18:15
+2019/12/06 2:21:03 PM MST,pstat / stats / actuarial,Undergraduate student,12/2/2019,15:08,
+2019/12/06 2:21:33 PM MST,math,Undergraduate student,12/2/2019,15:10,
+2019/12/06 2:21:51 PM MST,pstat / stats / actuarial,Undergraduate student,12/2/2019,15:12,
+2019/12/06 2:22:56 PM MST,ece,Graduate student,12/2/2019,15:28,18:00
+2019/12/06 2:23:13 PM MST,pstat / stats / actuarial,Undergraduate student,12/2/2019,15:30,
+2019/12/06 2:23:30 PM MST,math,Undergraduate student,12/2/2019,15:30,
+2019/12/06 2:23:52 PM MST,english,Undergraduate student,12/2/2019,15:11,
+2019/12/06 2:24:28 PM MST,econ,Undergraduate student,12/2/2019,16:45,
+2019/12/06 2:24:55 PM MST,econ,Undergraduate student,12/2/2019,16:54,
+2019/12/06 2:25:29 PM MST,pstat / stats / actuarial,Undergraduate student,12/2/2019,17:21,18:13
+2019/07/10 5:51:39 PM MDT,econ,Undergraduate student,12/2/2019,13:00,
+2020/01/21 7:43:06 PM MST,econ,Undergraduate student,12/2/2019,18:21,19:55
+2019/12/06 2:27:08 PM MST,pstat / stats / actuarial,Undergraduate student,12/3/2019,14:00,17:00
+2019/12/06 2:27:38 PM MST,pstat / stats / actuarial,Undergraduate student,12/3/2019,14:00,17:00
+2019/12/06 2:28:04 PM MST,geog,Undergraduate student,12/3/2019,14:10,
+2019/12/06 2:28:43 PM MST,econ,Undergraduate student,12/3/2019,14:10,15:00
+2019/12/06 2:29:19 PM MST,econ,Undergraduate student,12/3/2019,15:30,16:45
+2019/12/06 2:30:04 PM MST,math,Undergraduate student,12/3/2019,15:20,17:00
+2019/12/06 2:30:45 PM MST,engineering,Graduate student,12/3/2019,15:30,18:50
+2019/12/06 2:31:18 PM MST,pstat / stats / actuarial,Undergraduate student,12/3/2019,15:30,
+2019/12/06 2:31:43 PM MST,pstat / stats / actuarial,Undergraduate student,12/3/2019,15:36,16:50
+2019/12/06 2:32:04 PM MST,bren / environmental studies,Undergraduate student,12/3/2019,15:40,
+2020/01/06 4:47:13 PM MST,econ,Undergraduate student,12/3/2019,17:00,17:50
+2020/01/06 4:47:37 PM MST,poli sci,Undergraduate student,12/3/2019,17:03,18:00
+2020/01/06 4:48:03 PM MST,econ,Undergraduate student,12/3/2019,18:04,
+2020/01/06 4:48:34 PM MST,geog,Undergraduate student,12/3/2019,18:07,20:00
+2020/01/06 4:48:57 PM MST,computer science,Undergraduate student,12/3/2019,18:20,
+2020/01/06 4:49:25 PM MST,geog,Undergraduate student,12/3/2019,18:27,20:00
+2020/01/06 4:49:54 PM MST,econ,Undergraduate student,12/3/2019,18:40,19:17
+2020/01/08 1:02:04 PM MST,bren / environmental studies,Undergraduate student,12/3/2019,15:45,
+2020/01/08 1:03:11 PM MST,bren / environmental studies,Undergraduate student,12/3/2019,15:45,17:37
+2020/01/08 1:03:29 PM MST,econ,Undergraduate student,12/3/2019,15:55,
+2020/01/08 1:03:46 PM MST,bren / environmental studies,Undergraduate student,12/3/2019,16:02,
+2020/01/08 1:04:05 PM MST,econ,Undergraduate student,12/3/2019,16:05,16:50
+2020/01/08 1:04:38 PM MST,pstat / stats / actuarial,Undergraduate student,12/3/2019,16:05,16:50
+2020/01/08 1:04:59 PM MST,econ,Undergraduate student,12/3/2019,16:10,16:45
+2020/01/08 1:05:25 PM MST,pstat / stats / actuarial,Undergraduate student,12/3/2019,16:10,16:50
+2020/01/08 1:05:41 PM MST,econ,Undergraduate student,12/3/2019,16:10,16:50
+2020/01/08 1:06:00 PM MST,econ,Undergraduate student,12/3/2019,16:20,
+2020/01/08 1:06:24 PM MST,econ,Undergraduate student,12/3/2019,16:55,17:50
+2020/01/08 1:06:34 PM MST,econ,Undergraduate student,12/3/2019,16:55,
+2019/07/15 4:17:22 PM MDT,geog,Undergraduate student,12/4/2019,12:20,15:40
+2019/12/06 1:03:55 PM MST,econ,Undergraduate student,12/4/2019,14:40,15:15
+2019/12/06 1:04:20 PM MST,ece,Graduate student,12/4/2019,14:40,15:15
+2019/12/06 2:06:21 PM MST,econ,Undergraduate student,12/4/2019,14:45,
+2019/12/06 2:06:46 PM MST,geog,Undergraduate student,12/4/2019,14:55,15:30
+2019/12/06 2:07:13 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,15:00,
+2019/12/06 2:08:17 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,15:13,18:00
+2019/12/06 2:09:17 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,15:15,
+2019/12/06 2:09:32 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,15:25,
+2019/12/06 2:10:44 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,15:33,16:45
+2019/12/06 2:11:06 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,15:30,16:50
+2019/12/06 2:11:21 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,15:45,16:00
+2019/12/06 2:11:42 PM MST,geog,Undergraduate student,12/4/2019,16:52,16:58
+2019/12/06 2:13:00 PM MST,econ,Undergraduate student,12/4/2019,12:45,
+2019/12/06 2:13:21 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,12:56,13:54
+2019/12/06 2:13:54 PM MST,econ,Undergraduate student,12/4/2019,13:20,
+2019/12/06 2:14:44 PM MST,econ,Undergraduate student,12/4/2019,13:20,
+2019/12/06 2:14:58 PM MST,econ,Undergraduate student,12/4/2019,13:24,15:12
+2019/12/06 2:15:37 PM MST,econ,Undergraduate student,12/4/2019,13:30,
+2019/12/06 2:16:33 PM MST,engineering,Graduate student,12/4/2019,13:30,20:00
+2019/12/06 2:16:56 PM MST,econ,Undergraduate student,12/4/2019,13:50,15:16
+2019/12/06 2:17:22 PM MST,computer science,Graduate student,12/4/2019,13:54,15:45
+2019/12/06 2:17:45 PM MST,pstat / stats / actuarial,Graduate student,12/4/2019,14:00,15:18
+2019/12/06 2:17:57 PM MST,physics,Undergraduate student,12/4/2019,14:07,
+2019/12/06 2:18:38 PM MST,engineering,Undergraduate student,12/4/2019,14:25,
+2020/01/06 4:03:13 PM MST,geog,Undergraduate student,12/4/2019,16:54,20:00
+2020/01/06 4:03:40 PM MST,geog,Undergraduate student,12/4/2019,17:00,20:00
+2020/01/06 4:05:19 PM MST,geog,Undergraduate student,12/4/2019,17:20,
+2020/01/06 4:05:58 PM MST,geog,Undergraduate student,12/4/2019,11:52,13:42
+2020/01/06 4:06:45 PM MST,engineering,Undergraduate student,12/4/2019,11:54,12:53
+2020/01/06 4:07:22 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,12:20,13:23
+2020/01/06 4:50:15 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,12:00,
+2020/01/06 4:50:43 PM MST,bren / environmental studies,Undergraduate student,12/4/2019,12:04,
+2020/01/06 4:51:10 PM MST,bren / environmental studies,Undergraduate student,12/4/2019,12:05,
+2020/01/06 4:51:44 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,12:15,
+2020/01/06 4:52:01 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,12:15,
+2020/01/06 4:52:19 PM MST,pstat / stats / actuarial,Undergraduate student,12/4/2019,12:15,
+2019/07/15 4:33:35 PM MDT,art,Undergraduate student,12/4/2019,18:26,
+2020/01/06 4:07:50 PM MST,math,Undergraduate student,12/5/2019,12:50,
+2020/01/06 4:08:13 PM MST,physics,Undergraduate student,12/5/2019,13:30,
+2020/01/06 4:08:34 PM MST,physics,Undergraduate student,12/5/2019,13:30,
+2020/01/06 4:11:05 PM MST,psychology,Undergraduate student,12/5/2019,13:43,
+2020/01/06 4:11:30 PM MST,econ,Undergraduate student,12/5/2019,13:45,
+2020/01/06 4:12:15 PM MST,econ,Undergraduate student,12/5/2019,13:45,
+2020/01/06 4:12:34 PM MST,computer science,Undergraduate student,12/5/2019,13:50,
+2020/01/06 4:13:05 PM MST,global,Undergraduate student,12/5/2019,13:51,14:20
+2020/01/06 4:13:45 PM MST,pstat / stats / actuarial,Undergraduate student,12/5/2019,14:00,16:41
+2020/01/06 4:14:29 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,14:03,
+2020/01/06 4:14:55 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,14:04,17:01
+2020/01/06 4:15:21 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,14:14,
+2020/01/06 4:15:58 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,14:15,17:01
+2020/01/06 4:17:01 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,14:15,17:00
+2020/01/06 4:17:26 PM MST,pstat / stats / actuarial,Undergraduate student,12/5/2019,14:45,17:30
+2020/01/06 4:22:36 PM MST,econ,Undergraduate student,12/5/2019,13:00,
+2020/01/06 4:22:57 PM MST,econ,Undergraduate student,12/5/2019,13:00,
+2020/01/06 4:23:36 PM MST,engineering,Undergraduate student,12/5/2019,14:40,
+2020/01/06 4:24:11 PM MST,english,Graduate student,12/5/2019,14:40,20:00
+2020/01/06 4:24:56 PM MST,pstat / stats / actuarial,Undergraduate student,12/5/2019,15:00,16:00
+2020/01/06 4:25:26 PM MST,engineering,Graduate student,12/5/2019,15:05,15:55
+2020/01/06 4:25:51 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,15:00,
+2020/01/06 4:26:32 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,15:02,
+2020/01/06 4:26:52 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,15:10,
+2020/01/06 4:27:08 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,15:09,
+2020/01/06 4:27:34 PM MST,pstat / stats / actuarial,Undergraduate student,12/5/2019,15:10,
+2020/01/06 4:28:12 PM MST,pstat / stats / actuarial,Undergraduate student,12/5/2019,15:15,
+2020/01/06 4:34:32 PM MST,biology/eemb/mcdb,Undergraduate student,12/5/2019,15:27,16:44
+2020/01/06 4:35:12 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,15:51,17:01
+2020/01/06 4:35:38 PM MST,pstat / stats / actuarial,Undergraduate student,12/5/2019,15:50,
+2020/01/06 4:36:13 PM MST,geog,Undergraduate student,12/5/2019,15:50,17:10
+2020/01/06 4:36:42 PM MST,geog,Undergraduate student,12/5/2019,16:00,16:44
+2020/01/06 4:37:11 PM MST,econ,Undergraduate student,12/5/2019,16:44,17:15
+2020/01/06 4:37:35 PM MST,pstat / stats / actuarial,Undergraduate student,12/5/2019,16:35,
+2020/01/06 4:38:13 PM MST,geog,Undergraduate student,12/5/2019,17:00,17:15
+2020/01/06 4:39:48 PM MST,geog,Undergraduate student,12/5/2019,17:10,17:30
+2020/01/06 4:40:09 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,17:10,20:00
+2020/01/06 4:40:35 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,17:10,20:00
+2020/01/06 4:41:41 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,17:45,20:00
+2020/01/06 4:42:06 PM MST,bren / environmental studies,Undergraduate student,12/5/2019,17:45,19:48
+2020/01/06 4:42:31 PM MST,econ,Undergraduate student,12/5/2019,17:50,18:21
+2020/01/06 4:42:59 PM MST,pstat / stats / actuarial,Undergraduate student,12/5/2019,18:23,
+2020/01/06 4:43:18 PM MST,physics,Undergraduate student,12/5/2019,19:11,
+2020/01/06 4:43:37 PM MST,engineering,Undergraduate student,12/5/2019,19:20,
+2020/01/06 4:44:09 PM MST,pstat / stats / actuarial,Undergraduate student,12/5/2019,13:30,17:00
+2020/01/06 4:44:41 PM MST,pstat / stats / actuarial,Undergraduate student,12/5/2019,17:30,
+2020/01/06 1:50:57 PM MST,ece,Undergraduate student,12/6/2019,9:43,10:00
+2020/01/06 1:51:19 PM MST,computer science,Undergraduate student,12/6/2019,10:23,17:00
+2020/01/06 1:51:41 PM MST,engineering,Graduate student,12/6/2019,12:00,
+2020/01/06 1:52:13 PM MST,engineering,Undergraduate student,12/6/2019,13:00,14:00
+2020/01/06 1:52:29 PM MST,math,Undergraduate student,12/6/2019,15:00,16:55
+2020/01/06 1:52:53 PM MST,geog,Undergraduate student,12/6/2019,13:00,
+2020/01/06 1:53:12 PM MST,computer science,Undergraduate student,12/6/2019,13:10,13:54
+2020/01/06 1:53:30 PM MST,econ,Undergraduate student,12/6/2019,13:15,13:52
+2020/01/06 1:53:46 PM MST,sociology,Undergraduate student,12/6/2019,13:15,17:00
+2020/01/06 1:54:02 PM MST,geog,Undergraduate student,12/6/2019,13:35,17:00
+2020/01/06 1:55:13 PM MST,math,Undergraduate student,12/6/2019,13:56,16:55
+2020/01/06 1:55:36 PM MST,math,Undergraduate student,12/6/2019,14:04,16:55
+2020/01/06 1:55:54 PM MST,math,Undergraduate student,12/6/2019,14:00,16:55
+2020/01/06 1:56:15 PM MST,geog,Undergraduate student,12/6/2019,14:00,17:00
+2020/01/06 1:56:32 PM MST,chemistry,Undergraduate student,12/6/2019,14:45,
+2020/01/06 1:56:51 PM MST,pstat / stats / actuarial,Undergraduate student,12/6/2019,15:00,17:00
+2020/01/06 1:57:05 PM MST,econ,Undergraduate student,12/6/2019,15:10,16:00
+2020/01/06 1:57:23 PM MST,biology/eemb/mcdb,Undergraduate student,12/6/2019,15:15,
+2020/01/06 1:57:40 PM MST,geog,Undergraduate student,12/6/2019,15:23,16:15
+2020/01/06 1:58:38 PM MST,geog,Undergraduate student,12/6/2019,12:10,15:10
+2020/01/06 4:45:09 PM MST,pstat / stats / actuarial,Undergraduate student,12/6/2019,16:43,18:43
+2020/01/06 1:57:53 PM MST,pstat / stats / actuarial,Undergraduate student,12/7/2019,12:00,
+2020/01/06 1:58:50 PM MST,pstat / stats / actuarial,Undergraduate student,12/7/2019,15:15,
+2020/01/06 1:59:28 PM MST,econ,Undergraduate student,12/7/2019,12:30,16:00
+2020/01/06 1:59:45 PM MST,geog,Undergraduate student,12/7/2019,12:30,15:00
+2020/01/06 2:00:00 PM MST,computer science,Undergraduate student,12/7/2019,12:30,14:00
+2020/01/06 2:00:23 PM MST,computer science,Undergraduate student,12/7/2019,12:45,
+2020/01/06 2:00:39 PM MST,anth,Undergraduate student,12/7/2019,13:45,
+2020/01/06 2:00:53 PM MST,geog,Graduate student,12/7/2019,14:00,
+2020/01/06 2:01:13 PM MST,anth,Undergraduate student,12/7/2019,14:03,16:49
+2020/01/06 2:01:31 PM MST,pstat / stats / actuarial,Undergraduate student,12/7/2019,14:33,
+2020/01/06 2:01:44 PM MST,math,Undergraduate student,12/7/2019,14:37,
+2020/01/06 2:04:21 PM MST,psychology,Undergraduate student,12/7/2019,17:07,
+2020/01/06 2:04:34 PM MST,pstat / stats / actuarial,Undergraduate student,12/7/2019,16:00,
+2020/01/06 2:04:52 PM MST,computer science,Undergraduate student,12/7/2019,12:00,18:45
+2020/01/06 2:05:06 PM MST,geog,Undergraduate student,12/7/2019,12:05,
+2020/01/06 2:09:15 PM MST,communication,Undergraduate student,12/7/2019,13:04,
+2020/01/06 2:09:37 PM MST,psychology,Undergraduate student,12/7/2019,13:34,
+2020/01/06 2:09:51 PM MST,pstat / stats / actuarial,Undergraduate student,12/7/2019,13:38,18:36
+2020/01/06 2:10:11 PM MST,econ,Undergraduate student,12/7/2019,13:38,18:36
+2020/01/06 2:10:32 PM MST,pstat / stats / actuarial,Undergraduate student,12/7/2019,13:39,18:36
+2020/01/06 2:11:02 PM MST,bren / environmental studies,Undergraduate student,12/7/2019,13:45,15:30
+2020/01/06 2:11:26 PM MST,math,Undergraduate student,12/7/2019,13:57,
+2020/01/06 2:11:43 PM MST,computer science,Undergraduate student,12/7/2019,14:00,
+2020/01/06 2:11:56 PM MST,anth,Undergraduate student,12/7/2019,12:15,18:30
+2020/01/06 2:05:40 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,12:00,18:45
+2020/01/06 2:05:58 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,12:50,17:00
+2020/01/06 2:06:31 PM MST,computer science,Undergraduate student,12/8/2019,12:50,13:10
+2020/01/06 2:06:54 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,12:50,14:50
+2020/01/06 2:07:08 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,12:50,14:50
+2020/01/06 2:07:29 PM MST,math,Undergraduate student,12/8/2019,12:50,15:00
+2020/01/06 2:07:41 PM MST,econ,Undergraduate student,12/8/2019,13:00,17:00
+2020/01/06 2:08:07 PM MST,pstat / stats / actuarial,Graduate student,12/8/2019,13:00,18:10
+2020/01/06 2:12:21 PM MST,physics,Undergraduate student,12/8/2019,14:15,18:30
+2020/01/06 2:12:34 PM MST,bren / environmental studies,Undergraduate student,12/8/2019,14:15,18:00
+2020/01/06 2:12:46 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,14:17,
+2020/01/06 2:13:49 PM MST,computer science,Undergraduate student,12/8/2019,15:00,
+2020/01/06 2:14:06 PM MST,geog,Graduate student,12/8/2019,15:00,16:05
+2020/01/06 2:14:19 PM MST,bren / environmental studies,Undergraduate student,12/8/2019,15:00,18:00
+2020/01/06 2:14:33 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,15:00,17:36
+2020/01/06 2:14:52 PM MST,bren / environmental studies,Undergraduate student,12/8/2019,15:00,18:00
+2020/01/06 2:15:12 PM MST,econ,Undergraduate student,12/8/2019,14:57,
+2020/01/06 2:15:30 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,15:00,
+2020/01/06 2:15:42 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,15:00,
+2020/01/06 2:15:57 PM MST,ece,Graduate student,12/8/2019,15:30,17:30
+2020/01/06 2:16:16 PM MST,bren / environmental studies,Undergraduate student,12/8/2019,15:40,20:00
+2020/01/06 2:16:31 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,16:00,
+2020/01/06 2:16:47 PM MST,physics,Undergraduate student,12/8/2019,16:00,18:10
+2020/01/06 2:17:00 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,4:20,
+2020/01/06 2:25:55 PM MST,bren / environmental studies,Undergraduate student,12/8/2019,16:27,19:23
+2020/01/06 2:26:08 PM MST,anth,Undergraduate student,12/8/2019,16:30,18:30
+2020/01/06 2:26:28 PM MST,bren / environmental studies,Undergraduate student,12/8/2019,16:45,19:23
+2020/01/06 2:26:40 PM MST,bren / environmental studies,Undergraduate student,12/8/2019,17:00,19:23
+2020/01/06 2:27:01 PM MST,bren / environmental studies,Undergraduate student,12/8/2019,17:00,19:23
+2020/01/06 2:27:15 PM MST,pstat / stats / actuarial,Undergraduate student,12/8/2019,18:10,18:40
+2020/01/06 2:27:30 PM MST,engineering,Graduate student,12/8/2019,18:30,
+2020/02/14 2:08:39 PM MST,geog,Graduate student,12/8/2019,12:51,
+2020/01/06 1:24:52 PM MST,math,Undergraduate student,12/9/2019,16:32,18:12
+2020/01/06 1:27:00 PM MST,earth sciences,Undergraduate student,12/9/2019,17:00,18:00
+2020/01/06 1:27:29 PM MST,math,Undergraduate student,12/9/2019,17:00,18:42
+2020/01/06 1:28:18 PM MST,pstat / stats / actuarial,Undergraduate student,12/9/2019,17:10,17:22
+2020/01/06 1:29:52 PM MST,earth sciences,Undergraduate student,12/9/2019,17:33,
+2020/01/06 1:30:27 PM MST,bren / environmental studies,Undergraduate student,12/9/2019,17:33,
+2020/01/06 1:30:54 PM MST,bren / environmental studies,Undergraduate student,12/9/2019,17:40,
+2020/01/06 1:38:48 PM MST,geog,Undergraduate student,12/9/2019,13:00,14:00
+2020/01/06 1:39:50 PM MST,pstat / stats / actuarial,Undergraduate student,12/9/2019,13:00,17:50
+2020/01/06 1:40:21 PM MST,poli sci,Undergraduate student,12/9/2019,13:00,17:50
+2020/01/06 1:41:25 PM MST,biology/eemb/mcdb,Undergraduate student,12/9/2019,13:30,
+2020/01/06 1:41:43 PM MST,biology/eemb/mcdb,Undergraduate student,12/9/2019,13:30,18:30
+2020/01/06 1:42:28 PM MST,pstat / stats / actuarial,Undergraduate student,12/9/2019,13:40,15:10
+2020/01/06 1:42:43 PM MST,econ,Undergraduate student,12/9/2019,13:30,17:00
+2020/01/06 1:43:01 PM MST,pstat / stats / actuarial,Graduate student,12/9/2019,14:00,14:45
+2020/01/06 1:43:18 PM MST,econ,Undergraduate student,12/9/2019,14:15,15:28
+2020/01/06 1:43:35 PM MST,pstat / stats / actuarial,Undergraduate student,12/9/2019,14:20,15:30
+2020/01/06 1:43:59 PM MST,pstat / stats / actuarial,Undergraduate student,12/9/2019,14:45,18:00
+2020/01/06 1:44:31 PM MST,geog,Undergraduate student,12/9/2019,15:07,
+2020/01/06 1:46:47 PM MST,math,Undergraduate student,12/9/2019,15:10,18:42
+2020/01/06 1:47:01 PM MST,geog,Undergraduate student,12/9/2019,15:15,
+2020/01/06 1:47:20 PM MST,engineering,Undergraduate student,12/9/2019,15:32,
+2020/01/06 1:47:34 PM MST,bren / environmental studies,Undergraduate student,12/9/2019,15:35,
+2020/01/06 1:47:50 PM MST,bren / environmental studies,Undergraduate student,12/9/2019,16:00,
+2020/01/06 1:48:17 PM MST,pstat / stats / actuarial,Undergraduate student,12/9/2019,16:02,19:14
+2020/01/06 1:48:36 PM MST,pstat / stats / actuarial,Undergraduate student,12/9/2019,16:02,
+2020/01/06 1:48:47 PM MST,pstat / stats / actuarial,Undergraduate student,12/9/2019,16:02,
+2020/01/06 1:49:06 PM MST,computer science,Undergraduate student,12/9/2019,16:00,18:20
+2020/01/06 1:49:29 PM MST,history,Undergraduate student,12/9/2019,16:00,17:50
+2020/01/06 1:50:03 PM MST,engineering,Graduate student,12/9/2019,16:20,
+2020/01/21 6:00:48 PM MST,econ,Undergraduate student,12/9/2019,12:00,
+2020/01/21 6:01:08 PM MST,pstat / stats / actuarial,Undergraduate student,12/9/2019,12:15,13:50
+2020/01/21 6:01:38 PM MST,earth sciences,Undergraduate student,12/9/2019,12:15,15:00
+2020/01/21 6:02:02 PM MST,econ,Undergraduate student,12/9/2019,12:45,
+2020/01/21 6:02:24 PM MST,math,Undergraduate student,12/9/2019,12:35,13:50
+2020/01/21 6:02:38 PM MST,math,Undergraduate student,12/9/2019,12:35,13:50
+2020/01/21 6:02:52 PM MST,math,Undergraduate student,12/9/2019,12:35,
+2020/01/21 6:03:11 PM MST,geog,Graduate student,12/9/2019,12:40,
+2020/01/21 6:03:30 PM MST,math,Undergraduate student,12/9/2019,12:44,
+2020/01/21 6:03:48 PM MST,math,Undergraduate student,12/9/2019,12:48,13:50
+2020/01/21 6:04:06 PM MST,math,Undergraduate student,12/9/2019,12:48,13:50
+2020/01/21 6:04:23 PM MST,econ,Undergraduate student,12/9/2019,13:00,
+2020/01/06 1:31:41 PM MST,psychology,Undergraduate student,12/10/2019,17:45,
+2020/01/06 1:32:18 PM MST,bren / environmental studies,Undergraduate student,12/10/2019,14:00,15:00
+2020/01/06 1:32:38 PM MST,pstat / stats / actuarial,Undergraduate student,12/10/2019,14:20,
+2020/01/06 1:32:54 PM MST,math,Undergraduate student,12/10/2019,14:20,
+2020/01/06 1:33:10 PM MST,econ,Undergraduate student,12/10/2019,14:30,
+2020/01/06 1:33:47 PM MST,biology/eemb/mcdb,Undergraduate student,12/10/2019,12:00,
+2020/01/06 1:34:05 PM MST,pstat / stats / actuarial,Undergraduate student,12/10/2019,12:02,
+2020/01/06 1:34:23 PM MST,earth sciences,Undergraduate student,12/10/2019,12:20,
+2020/01/06 1:34:44 PM MST,psychology,Undergraduate student,12/10/2019,12:30,
+2020/01/06 1:35:00 PM MST,econ,Undergraduate student,12/10/2019,12:35,
+2020/01/06 1:35:17 PM MST,earth sciences,Undergraduate student,12/10/2019,12:35,15:00
+2020/01/06 1:36:07 PM MST,history,Undergraduate student,12/10/2019,13:04,
+2020/01/06 1:36:19 PM MST,econ,Undergraduate student,12/10/2019,13:00,19:00
+2020/01/06 1:36:41 PM MST,pstat / stats / actuarial,Undergraduate student,12/10/2019,13:07,15:30
+2020/01/06 1:37:01 PM MST,pstat / stats / actuarial,Undergraduate student,12/10/2019,13:20,
+2020/01/06 1:37:22 PM MST,pstat / stats / actuarial,Undergraduate student,12/10/2019,13:30,
+2020/01/06 2:28:00 PM MST,bren / environmental studies,Undergraduate student,12/10/2019,19:35,
+2020/01/21 6:04:53 PM MST,pstat / stats / actuarial,Undergraduate student,12/10/2019,14:50,15:00
+2020/01/21 6:05:05 PM MST,pstat / stats / actuarial,Graduate student,12/10/2019,15:00,
+2020/01/21 6:05:24 PM MST,geog,Undergraduate student,12/10/2019,15:00,
+2020/01/21 6:05:55 PM MST,psychology,Undergraduate student,12/10/2019,15:10,
+2020/01/21 6:06:08 PM MST,computer science,Undergraduate student,12/10/2019,15:21,
+2020/01/21 6:06:24 PM MST,biology/eemb/mcdb,Undergraduate student,12/10/2019,15:38,
+2020/01/21 6:06:41 PM MST,pstat / stats / actuarial,Undergraduate student,12/10/2019,15:32,17:50
+2020/01/21 6:07:00 PM MST,pstat / stats / actuarial,Undergraduate student,12/10/2019,15:32,17:50
+2020/01/21 6:07:53 PM MST,earth sciences,Undergraduate student,12/10/2019,16:03,
+2020/01/21 6:08:27 PM MST,earth sciences,Undergraduate student,12/10/2019,16:11,
+2020/01/21 6:08:43 PM MST,earth sciences,Undergraduate student,12/10/2019,16:11,
+2020/01/21 6:09:05 PM MST,earth sciences,Undergraduate student,12/10/2019,16:12,18:52
+2020/01/21 6:09:31 PM MST,earth sciences,Undergraduate student,12/10/2019,16:15,
+2020/01/21 6:09:53 PM MST,bren / environmental studies,Undergraduate student,12/10/2019,16:17,19:42
+2020/01/21 6:10:10 PM MST,econ,Undergraduate student,12/10/2019,16:20,
+2020/01/21 6:10:20 PM MST,econ,Undergraduate student,12/10/2019,16:30,
+2020/01/21 6:10:38 PM MST,bren / environmental studies,Undergraduate student,12/10/2019,17:02,
+2020/01/21 6:10:51 PM MST,econ,Undergraduate student,12/10/2019,17:05,
+2020/01/21 6:11:05 PM MST,bren / environmental studies,Undergraduate student,12/10/2019,18:00,20:00
+2020/01/21 6:11:19 PM MST,earth sciences,Undergraduate student,12/10/2019,18:20,20:00
+2020/01/21 6:11:36 PM MST,earth sciences,Undergraduate student,12/10/2019,19:33,
+2020/01/21 6:15:56 PM MST,earth sciences,Undergraduate student,12/10/2019,12:39,13:45
+2020/01/21 7:15:56 PM MST,N/A,Staff,12/10/2019,14:00,15:05
+2020/01/21 7:16:11 PM MST,pstat / stats / actuarial,Undergraduate student,12/10/2019,16:30,19:40
+2020/01/21 7:16:28 PM MST,econ,Undergraduate student,12/10/2019,14:00,
+2020/01/21 7:16:42 PM MST,earth sciences,Undergraduate student,12/10/2019,14:45,19:55
+2020/01/21 6:15:02 PM MST,bren / environmental studies,Undergraduate student,12/11/2019,12:22,13:45
+2020/01/21 6:15:16 PM MST,earth sciences,Undergraduate student,12/11/2019,12:33,13:45
+2020/01/21 6:15:31 PM MST,earth sciences,Undergraduate student,12/11/2019,12:36,13:35
+2020/01/21 6:16:12 PM MST,earth sciences,Undergraduate student,12/11/2019,12:41,13:35
+2020/01/21 6:16:40 PM MST,earth sciences,Undergraduate student,12/11/2019,14:00,15:15
+2020/01/21 6:16:58 PM MST,math,Undergraduate student,12/11/2019,13:11,
+2020/01/21 6:17:13 PM MST,math,Undergraduate student,12/11/2019,13:11,
+2020/01/21 6:17:37 PM MST,earth sciences,Undergraduate student,12/11/2019,13:20,19:00
+2020/01/21 6:17:51 PM MST,earth sciences,Undergraduate student,12/11/2019,13:20,15:17
+2020/01/21 6:18:09 PM MST,pstat / stats / actuarial,Undergraduate student,12/11/2019,13:48,
+2020/01/21 7:16:57 PM MST,pstat / stats / actuarial,Graduate student,12/11/2019,14:00,
+2020/01/21 7:17:13 PM MST,psychology,Undergraduate student,12/11/2019,14:05,
+2020/01/21 7:17:41 PM MST,engineering,Undergraduate student,12/11/2019,15:00,
+2020/01/21 7:17:54 PM MST,pstat / stats / actuarial,Undergraduate student,12/11/2019,15:30,
+2020/01/21 7:18:13 PM MST,ece,Graduate student,12/11/2019,15:30,16:45
+2020/01/21 7:18:31 PM MST,pstat / stats / actuarial,Undergraduate student,12/11/2019,15:30,17:00
+2020/01/21 7:18:43 PM MST,pstat / stats / actuarial,Undergraduate student,12/11/2019,15:30,17:00
+2020/01/21 7:20:23 PM MST,econ,Undergraduate student,12/11/2019,15:45,19:30
+2020/01/21 7:21:37 PM MST,econ,Undergraduate student,12/11/2019,15:45,19:30
+2020/01/21 7:21:54 PM MST,pstat / stats / actuarial,Graduate student,12/11/2019,17:00,
+2020/01/21 7:22:36 PM MST,econ,Undergraduate student,12/11/2019,17:00,
+2020/01/21 7:22:57 PM MST,econ,Undergraduate student,12/12/2019,12:15,13:30
+2020/01/21 7:23:09 PM MST,econ,Undergraduate student,12/12/2019,12:15,
+2020/01/21 7:23:23 PM MST,econ,Undergraduate student,12/12/2019,12:25,15:39
+2020/01/21 7:24:15 PM MST,econ,Undergraduate student,12/12/2019,12:32,15:39
+2020/01/21 7:24:33 PM MST,econ,Undergraduate student,12/12/2019,12:33,15:30
+2020/01/21 7:24:51 PM MST,econ,Undergraduate student,12/12/2019,12:33,
+2020/01/21 7:25:02 PM MST,econ,Undergraduate student,12/12/2019,12:33,15:30
+2020/01/21 7:25:19 PM MST,pstat / stats / actuarial,Undergraduate student,12/12/2019,13:45,
+2020/01/21 7:25:34 PM MST,pstat / stats / actuarial,Undergraduate student,12/12/2019,13:45,
+2020/01/21 7:25:45 PM MST,ece,Graduate student,12/12/2019,13:50,
+2020/01/29 1:30:14 PM MST,econ,Undergraduate student,12/12/2019,15:00,
+2020/01/29 1:30:29 PM MST,chemistry,Undergraduate student,12/12/2019,15:30,
+2020/01/29 1:31:07 PM MST,chemistry,Undergraduate student,12/12/2019,17:30,
+2020/01/29 1:31:25 PM MST,econ,Undergraduate student,12/12/2019,15:00,
+2020/01/29 1:31:38 PM MST,econ,Undergraduate student,12/12/2019,15:00,
+2020/01/29 1:31:49 PM MST,econ,Undergraduate student,12/12/2019,15:00,
+2020/01/29 1:32:07 PM MST,computer science,Undergraduate student,12/12/2019,15:40,
+2019/11/22 5:37:02 PM MST,math,Undergraduate student,12/20/2019,14:57,19:05

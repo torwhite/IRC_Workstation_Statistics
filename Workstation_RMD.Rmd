@@ -6,8 +6,16 @@ output: html_document
 ---
 
 #pull data from responses automatically published to the following googple sheet
+```{r library_load}
+library(tidyverse)
+library(googlesheets4)
+```
 
-url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRs05d2a3TKTmD-7twcpwQCuWE0glx8MDdZyEZs2am-ZbgpUrkmfXUEZYBth0TeXA1kucEfXZDR_xV5/pubhtml?gid=156022845&single=true"
-
+#pull data from spreadsheet
+#https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing
+#spreadsheet is automatically updated with new responses
+```{r Workstation_data}
+Workstation_data <- read_sheet("https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing")
+```
 
 

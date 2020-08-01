@@ -9,13 +9,121 @@ output: html_document
 ```{r library_load}
 library(tidyverse)
 library(googlesheets4)
+library(stringr)
+library(rebus)
 ```
 
-#pull data from spreadsheet
-#https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing
-#spreadsheet is automatically updated with new responses
+#pull data from spreadsheet @ https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing
+#note: spreadsheet is automatically updated with new responses
 ```{r Workstation_data}
-Workstation_data <- read_sheet("https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing")
+data <- read_sheet("https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing")
 ```
 
+## Data Cleaning ##
+```{r}
+# make new df
+Workstation_data <- data
+```
+```{r to lowercase, echo=FALSE}
+#make Department and Status columns lowercase
+Workstation_data$Department <- tolower(Workstation_data$Department)
+Workstation_data$Status <- tolower(Workstation_data$Status)
+```
+```{r trim whitespace, echo=FALSE}
 
+##use str_trim() instead
+#trim whitespace
+Workstation_data$Department <- trimws(Workstation_data$Department, which = c("both"))
+Workstation_data$Status <- trimws(Workstation_data$Status, which = c("both"))
+```
+```{r department cleaning, echo= FALSE}
+
+
+##Department Normalization
+# Normalize anthropology
+Workstation_data <- Workstation_data %>% 
+  mutate(Department = str_replace(Department, pattern = exactly("anth"), "anthropology")) %>%
+  mutate(Department = str_replace(Department, pattern = exactly("anthro"), "anthropology"))
+
+#Normalize biology/eemb/mcdb
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("bio"), "biology/eemb/mcdb")) %>%
+  mutate(Department = str_replace(Department, exactly("biology"), "biology/eemb/mcdb")) %>%
+  mutate(Department = str_replace(Department, exactly("eemb"), "biology/eemb/mcdb")) %>%
+  mutate(Department = str_replace(Department, exactly("mcdb"), "biology/eemb/mcdb")) 
+
+#Normalize bren/environmental studies
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("environmental studies"), "bren/environmental studies")) %>%
+  mutate(Department = str_replace(Department, exactly("bren / environmental studies"), "bren/environmental studies"))
+Workstation_data$Department[Workstation_data$Department == "mesm"] <- "bren/environmental studies"
+
+#Normalize Communication
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("comm"), "communication")) %>%
+  mutate(Department = str_replace(Department, exactly("communications"), "communication"))
+
+#Normalize computer science
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("cs"), "computer science")) 
+
+#Normalize economics
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("econ"), "economics")) 
+
+#Normalize engineering
+Workstation_data$Department[Workstation_data$Department == "mrl"] <- "engineering"
+Workstation_data$Department[Workstation_data$Department == "ece"] <- "engineering"
+Workstation_data$Department[Workstation_data$Department == "electrical engineering"] <- "engineering"
+
+#Normalize exercise & sport
+Workstation_data$Department[Workstation_data$Department == "ess"] <- "exercise & sport"
+
+#Normalize film & media
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("film and media studies"), "film & media"))
+Workstation_data$Department[Workstation_data$Department == "famst"] <- "film & media"
+
+#Normalize geography
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("geo"), "geography")) %>%
+  mutate(Department = str_replace(Department, exactly("geog"), "geography"))
+
+#Normalize global
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("global studies"), "global"))
+
+#Normalize physics
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("phys"), "physics"))
+
+#Normalize religious
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("religious"), "religious studies"))
+
+#Normalize statistics
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("stats"), "pstat/stats/actuarial")) %>%
+  mutate(Department = str_replace(Department, exactly("pstat"), "pstat/stats/actuarial")) %>%
+  mutate(Department = str_replace(Department, exactly("statistics"), "pstat/stats/actuarial")) %>%
+  mutate(Department = str_replace(Department, exactly("pstat / stats / actuarial"), "pstat/stats/actuarial")) %>%
+  mutate(Department = str_replace(Department, exactly("actuarial science"), "pstat/stats/actuarial")) 
+
+#Normalize tmp
+Workstation_data$Department[Workstation_data$Department == "mtm"] <- "technology management"
+Workstation_data$Department[Workstation_data$Department == "tmp"] <- "technology management"
+
+
+#Normalize n/a
+Workstation_data <- Workstation_data %>%
+  mutate(Department = str_replace(Department, exactly("option 35"), "NA")) %>%
+  mutate(Department = str_replace(Department, exactly("other \\(add to shift log\\)"), "NA")) %>%
+  mutate(Department = str_replace(Department, exactly("n/a"), "NA"))
+Workstation_data$Department[Workstation_data$Department == "*"] <- NA
+
+
+which(Workstation_data$Department == "eemb", arr.ind = TRUE)
+
+unique(Workstation_data$Department)
+
+```

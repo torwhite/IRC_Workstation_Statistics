@@ -127,3 +127,14 @@ which(Workstation_data$Department == "eemb", arr.ind = TRUE)
 unique(Workstation_data$Department)
 
 ```
+```{r bundle depts, echo=FALSE}
+
+#Bundle english/comp lit/writing
+Workstation_dept_bundled <- Workstation_data %>%
+  filter(Department == "english" | Department == "comp lit" | Department == "writing") %>%
+  mutate(Department = "english/comp lit/writing")
+
+unique(Workstation_dept_bundled$Department)
+
+Workstation_data$[Workstation_data$Department == "english" | "comp lit" | "writing"] <- "english/comp lit/writing"
+```

@@ -4,8 +4,8 @@ author: "Torin White"
 date: "July 30, 2020"
 output: html_document
 ---
+#Workstation Stats
 
-#pull data from responses automatically published to the following googple sheet
 ```{r library_load}
 library(tidyverse)
 library(googlesheets4)
@@ -16,11 +16,11 @@ library(knitr)
 library(lubridate)
 library(hms)
 ```
-
-#pull data from spreadsheet @ https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing
-#note: spreadsheet is automatically updated with new responses
-# only need to run this code chunk if there are new entries to google form
+##pull data from spreadsheet @ https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing
+###note: spreadsheet is automatically updated with new responses
+###only need to run this code chunk if there are new entries to google form
 ```{r Workstation_data}
+# skip if no new entries
 data <- read_sheet("https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing")
 getwd()
 setwd("data")
@@ -29,10 +29,10 @@ write.csv(data, "Workstation_data.csv")
 
 ## Data Cleaning ##
 ```{r readcsv, echo = FALSE}
-# make new df
+# import data from saved csv
 getwd()
 setwd("data")
-Workstation_data <- read.csv("Workstation_data.csv")
+Workstation_data <- read_csv("data/Workstation_data.csv")
 ```
 ```{r data_cleaning, echo=FALSE}
 #make Department and Status columns lowercase
@@ -46,10 +46,7 @@ Workstation_data$Status <- tolower(Workstation_data$Status)
 Workstation_data$Department <- trimws(Workstation_data$Department, which = c("both"))
 Workstation_data$Status <- trimws(Workstation_data$Status, which = c("both"))
 ```
-```{r date_separation, echo=FALSE}
-# Separate Date column into three separate cols with year, month, date
 
-```
 ```{r department cleaning, echo= FALSE}
 ##Department Normalization
 

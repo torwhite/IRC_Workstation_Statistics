@@ -27,11 +27,10 @@ setwd("data")
 write.csv(data, "Workstation_data.csv")
 ```
 
-## Data Cleaning ##
+
 ```{r readcsv, echo = FALSE}
 # import data from saved csv
 getwd()
-setwd("data")
 Workstation_data <- read_csv("data/Workstation_data.csv")
 ```
 ```{r data_cleaning, echo=FALSE}
@@ -46,7 +45,7 @@ Workstation_data$Status <- tolower(Workstation_data$Status)
 Workstation_data$Department <- trimws(Workstation_data$Department, which = c("both"))
 Workstation_data$Status <- trimws(Workstation_data$Status, which = c("both"))
 ```
-
+## Data Cleaning ##
 ```{r department cleaning, echo= FALSE}
 ##Department Normalization
 
@@ -120,7 +119,7 @@ Workstation_data$Department[temp] <- "NA"
 
 #check if worked
 #which(Workstation_data$Department == "eemb", arr.ind = TRUE)
-unique(Workstation_data$Department)
+#unique(Workstation_data$Department)
 
 ```
 
@@ -145,19 +144,17 @@ temp <- Workstation_data$Department %in% c("anthropology", "sociology")
 Workstation_data$Department[temp] <- "anthropology/sociology"
 
 #check
-unique(Workstation_data$Department)
+#unique(Workstation_data$Department)
 ```
 ## Departments Statistics
 ### All-time Stats
 ```{r dept_total, echo= FALSE}
 #counts visits each dept all time
-counted_Dept <- Workstation_data %>%
-  count(Department)
-
-Department_count <- counted_Dept %>%
+Dept_count <- Workstation_data %>%
+  count(Department) %>%
   arrange(desc(n))
 
-kable(Department_count, caption = "Total Visits by Department")
+kable(Dept_count, caption = "Total Visits by Department")
           
 num_dept <- length(unique(Workstation_data$Department))
 # create more colors per: https://www.datanovia.com/en/blog/easy-way-to-expand-color-palettes-in-r/
@@ -198,5 +195,5 @@ counted_Dept %>%
 
 Departments by year 
 ```{r dept_byyear, echo=FALSE}
-Workstation_data$Date
+
 ```

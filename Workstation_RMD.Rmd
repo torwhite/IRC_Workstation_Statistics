@@ -11,18 +11,25 @@ library(tidyverse)
 library(googlesheets4)
 library(stringr)
 library(rebus)
+library(RColorBrewer)
 ```
 
 #pull data from spreadsheet @ https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing
 #note: spreadsheet is automatically updated with new responses
+# only need to run this code chunk if there are new entries to google form
 ```{r Workstation_data}
 data <- read_sheet("https://docs.google.com/spreadsheets/d/1hI-Vc059lvrxGeTBdNxVkXel2Hmyz-Gub5FD0qdJMJU/edit?usp=sharing")
+getwd()
+setwd("data")
+write.csv(data, "Workstation_data.csv")
 ```
 
 ## Data Cleaning ##
 ```{r}
 # make new df
-Workstation_data <- data
+getwd()
+setwd("data")
+Workstation_data <- read.csv("Workstation_data.csv")
 ```
 ```{r to lowercase, echo=FALSE}
 #make Department and Status columns lowercase
@@ -37,104 +44,155 @@ Workstation_data$Department <- trimws(Workstation_data$Department, which = c("bo
 Workstation_data$Status <- trimws(Workstation_data$Status, which = c("both"))
 ```
 ```{r department cleaning, echo= FALSE}
-
-
 ##Department Normalization
+
 # Normalize anthropology
-Workstation_data <- Workstation_data %>% 
-  mutate(Department = str_replace(Department, pattern = exactly("anth"), "anthropology")) %>%
-  mutate(Department = str_replace(Department, pattern = exactly("anthro"), "anthropology"))
+anth <- Workstation_data$Department %in% c("anth", "anthro")
+Workstation_data$Department[anth] <- "anthropology"
 
 #Normalize biology/eemb/mcdb
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("bio"), "biology/eemb/mcdb")) %>%
-  mutate(Department = str_replace(Department, exactly("biology"), "biology/eemb/mcdb")) %>%
-  mutate(Department = str_replace(Department, exactly("eemb"), "biology/eemb/mcdb")) %>%
-  mutate(Department = str_replace(Department, exactly("mcdb"), "biology/eemb/mcdb")) 
+bioeembmcdb <- Workstation_data$Department %in% c("bio", "biology", "eemb", "mcdb" )
+Workstation_data$Department[bioeembmcdb] <- "biology/eemb/mcdb"
 
 #Normalize bren/environmental studies
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("environmental studies"), "bren/environmental studies")) %>%
-  mutate(Department = str_replace(Department, exactly("bren / environmental studies"), "bren/environmental studies"))
-Workstation_data$Department[Workstation_data$Department == "mesm"] <- "bren/environmental studies"
+brenenviron <- Workstation_data$Department %in% c("environmental studies", "bren / environmental studies", "mesm", "environmental science" )
+Workstation_data$Department[brenenviron] <- "bren/environmental studies"
 
 #Normalize Communication
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("comm"), "communication")) %>%
-  mutate(Department = str_replace(Department, exactly("communications"), "communication"))
+comm <- Workstation_data$Department %in% c("comm", "communications")
+Workstation_data$Department[comm] <- "communication"
 
 #Normalize computer science
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("cs"), "computer science")) 
+Workstation_data$Department[Workstation_data$Department == "cs"] <- "computer science"
+
+#Normalize earth science
+Workstation_data$Department[Workstation_data$Department == "earth sci"] <- "earth sciences"
 
 #Normalize economics
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("econ"), "economics")) 
+Workstation_data$Department[Workstation_data$Department == "econ"] <- "economics"
 
 #Normalize engineering
-Workstation_data$Department[Workstation_data$Department == "mrl"] <- "engineering"
-Workstation_data$Department[Workstation_data$Department == "ece"] <- "engineering"
-Workstation_data$Department[Workstation_data$Department == "electrical engineering"] <- "engineering"
+engineering <- Workstation_data$Department %in% c("mrl", "ece", "electrical engineering")
+Workstation_data$Department[engineering] <- "engineering"
 
 #Normalize exercise & sport
 Workstation_data$Department[Workstation_data$Department == "ess"] <- "exercise & sport"
 
 #Normalize film & media
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("film and media studies"), "film & media"))
-Workstation_data$Department[Workstation_data$Department == "famst"] <- "film & media"
+filmmedia <- Workstation_data$Department %in% c("film and media studies", "famst")
+Workstation_data$Department[filmmedia] <- "film & media"
 
 #Normalize geography
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("geo"), "geography")) %>%
-  mutate(Department = str_replace(Department, exactly("geog"), "geography"))
+geog <- Workstation_data$Department %in% c("geo", "geog")
+Workstation_data$Department[geog] <- "geography"
 
 #Normalize global
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("global studies"), "global"))
+Workstation_data$Department[Workstation_data$Department == "global studies"] <- "global"
 
 #Normalize physics
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("phys"), "physics"))
+Workstation_data$Department[Workstation_data$Department == "phys"] <- "physics"
 
 #Normalize religious
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("religious"), "religious studies"))
+Workstation_data$Department[Workstation_data$Department == "religious"] <- "religious studies"
 
-#Normalize statistics
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("stats"), "pstat/stats/actuarial")) %>%
-  mutate(Department = str_replace(Department, exactly("pstat"), "pstat/stats/actuarial")) %>%
-  mutate(Department = str_replace(Department, exactly("statistics"), "pstat/stats/actuarial")) %>%
-  mutate(Department = str_replace(Department, exactly("pstat / stats / actuarial"), "pstat/stats/actuarial")) %>%
-  mutate(Department = str_replace(Department, exactly("actuarial science"), "pstat/stats/actuarial")) 
+#Normalize pstat/statistics/actuarial
+pstat <- Workstation_data$Department %in% c("stats", "pstat", "statistics", "pstat / stats / actuarial", "actuarial science"  )
+Workstation_data$Department[pstat] <- "pstat/stats/actuarial"
 
 #Normalize tmp
-Workstation_data$Department[Workstation_data$Department == "mtm"] <- "technology management"
-Workstation_data$Department[Workstation_data$Department == "tmp"] <- "technology management"
-
+tmp <- Workstation_data$Department %in% c("mtm", "tmp")
+Workstation_data$Department[tmp] <- "technology management"
 
 #Normalize n/a
-Workstation_data <- Workstation_data %>%
-  mutate(Department = str_replace(Department, exactly("option 35"), "NA")) %>%
-  mutate(Department = str_replace(Department, exactly("other \\(add to shift log\\)"), "NA")) %>%
-  mutate(Department = str_replace(Department, exactly("n/a"), "NA"))
-Workstation_data$Department[Workstation_data$Department == "*"] <- NA
+nas <- Workstation_data$Department %in% c("option 35", "other \\(add to shift log\\)", "n/a", "*")
+Workstation_data$Department[nas] <- "NA"
 
+#Normalize poli sci
+poli <- Workstation_data$Department %in% c("polisci", "poli sci")
+Workstation_data$Department[poli] <- "political science"
 
-which(Workstation_data$Department == "eemb", arr.ind = TRUE)
+#Normalize psychology
+Workstation_data$Department[Workstation_data$Department == "psych"] <- "psychology"
 
-unique(Workstation_data$Department)
+#check if worked
+#which(Workstation_data$Department == "eemb", arr.ind = TRUE)
+#unique(Workstation_data$Department)
 
 ```
+##Bundling depts (not already bundled)
 ```{r bundle depts, echo=FALSE}
 
-#Bundle english/comp lit/writing
-Workstation_dept_bundled <- Workstation_data %>%
-  filter(Department == "english" | Department == "comp lit" | Department == "writing") %>%
-  mutate(Department = "english/comp lit/writing")
+# English, Comp Lit & Writing bundle
+engcompwri <- Workstation_data$Department %in% c("english", "comp lit", "writing")
+Workstation_data$Department[engcompwri] <- "english/comp lit/writing"
 
-unique(Workstation_dept_bundled$Department)
+# Chicano, Black, Feminist
+ethnicgender <- Workstation_data$Department %in% c("chicano studies", "feminist studies", "black studies")
+Workstation_data$Department[ethnicgender] <- "chican@/black/feminist"
 
-Workstation_data$[Workstation_data$Department == "english" | "comp lit" | "writing"] <- "english/comp lit/writing"
+
+# Philosophy & Religious Studies & History
+philrelihist <- Workstation_data$Department %in% c("philosophy", "religious studies", "history")
+Workstation_data$Department[philrelihist] <- "philosophy/religion/history"
+
+
+#Anthropology & Sociology
+anthsoc <- Workstation_data$Department %in% c("anthropology", "sociology")
+Workstation_data$Department[anthsoc] <- "anthropology/sociology"
+
+#check
+#unique(Workstation_data$Department)
+```
+
+```{r dept vis}
+num_dept <- length(unique(Workstation_data$Department))
+# create more colors per: https://www.datanovia.com/en/blog/easy-way-to-expand-color-palettes-in-r/
+mycolors <- colorRampPalette(brewer.pal(8, "Set2"))(num_dept)
+ggplot(Workstation_data) + 
+  stat_count(aes(x = Department, fill = Department)) +
+  scale_fill_manual(values = mycolors) + coord_polar() + 
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank())
+
+# top 10
+
+
+
+#another try
+depts <- unique(Workstation_data$Department)
+#make department into Factor
+Workstation_data$Department <- as.factor(Workstation_data$Department)
+
+Workstation_data %>% 
+  arrange(desc(Department)) 
+
+#%>%
+  slice(1:10) %>%
+  ggplot() + stat_count(aes(x = Department, fill = Department)) +
+  scale_fill_manual(values = 10) + coord_polar() + 
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank())
+  
+
+
+#one try
+counted_Dept <- Workstation_data %>%
+  count(Department)
+
+head(sort(counted_Dept$n), 10)
+
+toptendepts <- tail(sort(counted_Dept$n), 10)
+
+ggplot(counted_Dept) + 
+  aes(x = Department, y = n, fill = Department) +
+  scale_fill_manual(values = mycolors) + coord_polar() + 
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank())
+  
+# bottom 10
+
+#FIXME figure out scale - top 10 vs. lowest 10
 ```
